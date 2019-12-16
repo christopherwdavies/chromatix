@@ -1,0 +1,1607 @@
+Mon, 09 Dec 2019 09:46:04 - [IP: 203.123.107.3] - [User: christopher] - URL: https://daviesguitars.io/wp-content/uploads/2019/01/Christopher-Davies.jpg
+Mon, 09 Dec 2019 09:46:04 - [IP: 203.123.107.3] - [User: christopher] - id or email: 2
+Mon, 09 Dec 2019 09:46:04 - [IP: 203.123.107.3] - [User: christopher] - Args: Array
+(
+    [size] => 128
+    [height] => 64
+    [width] => 64
+    [default] => https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+    [force_default] => 
+    [rating] => g
+    [scheme] => 
+    [processed_args] => 
+    [extra_attr] => 
+    [alt] => 
+    [class] => 
+    [force_display] => 
+    [found_avatar] => 1
+)
+
+Mon, 09 Dec 2019 09:46:04 - [IP: 203.123.107.3] - [User: christopher] - URL: https://daviesguitars.io/wp-content/uploads/2019/01/Christopher-Davies.jpg
+Mon, 09 Dec 2019 09:46:04 - [IP: 203.123.107.3] - [User: christopher] - id or email: 2
+Mon, 09 Dec 2019 09:46:04 - [IP: 203.123.107.3] - [User: christopher] - Args: Array
+(
+    [size] => 64
+    [height] => 64
+    [width] => 64
+    [default] => https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+    [force_default] => 
+    [rating] => g
+    [scheme] => 
+    [processed_args] => 
+    [extra_attr] => 
+    [alt] => 
+    [class] => 
+    [force_display] => 
+    [found_avatar] => 1
+)
+
+Mon, 09 Dec 2019 09:46:04 - [IP: 203.123.107.3] - [User: christopher] - URL: https://daviesguitars.io/wp-content/uploads/2019/01/Christopher-Davies.jpg
+Mon, 09 Dec 2019 09:46:04 - [IP: 203.123.107.3] - [User: christopher] - id or email: 2
+Mon, 09 Dec 2019 09:46:04 - [IP: 203.123.107.3] - [User: christopher] - Args: Array
+(
+    [size] => 52
+    [height] => 26
+    [width] => 26
+    [default] => https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+    [force_default] => 
+    [rating] => g
+    [scheme] => 
+    [processed_args] => 
+    [extra_attr] => 
+    [alt] => 
+    [class] => 
+    [force_display] => 
+    [found_avatar] => 1
+)
+
+Mon, 09 Dec 2019 09:46:04 - [IP: 203.123.107.3] - [User: christopher] - URL: https://daviesguitars.io/wp-content/uploads/2019/01/Christopher-Davies.jpg
+Mon, 09 Dec 2019 09:46:04 - [IP: 203.123.107.3] - [User: christopher] - id or email: 2
+Mon, 09 Dec 2019 09:46:04 - [IP: 203.123.107.3] - [User: christopher] - Args: Array
+(
+    [size] => 26
+    [height] => 26
+    [width] => 26
+    [default] => https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+    [force_default] => 
+    [rating] => g
+    [scheme] => 
+    [processed_args] => 
+    [extra_attr] => 
+    [alt] => 
+    [class] => 
+    [force_display] => 
+    [found_avatar] => 1
+)
+
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - URL: https://daviesguitars.io/wp-content/uploads/2019/01/Christopher-Davies.jpg
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - id or email: davies101@live.com.au
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - Args: Array
+(
+    [size] => 96
+    [height] => 96
+    [width] => 96
+    [default] => https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+    [force_default] => 
+    [rating] => g
+    [scheme] => 
+    [processed_args] => 
+    [extra_attr] => 
+    [found_avatar] => 1
+)
+
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - URL: https://daviesguitars.io/wp-content/uploads/2019/01/Christopher-Davies.jpg
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - id or email: 2
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - Args: Array
+(
+    [size] => 48
+    [height] => 24
+    [width] => 24
+    [default] => https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+    [force_default] => 
+    [rating] => g
+    [scheme] => 
+    [processed_args] => 
+    [extra_attr] => 
+    [alt] => 
+    [class] => 
+    [force_display] => 
+    [found_avatar] => 1
+)
+
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - URL: https://daviesguitars.io/wp-content/uploads/2019/01/Christopher-Davies.jpg
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - id or email: 2
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - Args: Array
+(
+    [size] => 24
+    [height] => 24
+    [width] => 24
+    [default] => https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+    [force_default] => 
+    [rating] => g
+    [scheme] => 
+    [processed_args] => 
+    [extra_attr] => 
+    [alt] => 
+    [class] => 
+    [force_display] => 
+    [found_avatar] => 1
+)
+
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - URL: https://daviesguitars.io/wp-content/uploads/2019/01/Christopher-Davies.jpg
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - id or email: 2
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - Args: Array
+(
+    [size] => 192
+    [height] => 96
+    [width] => 96
+    [default] => https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+    [force_default] => 
+    [rating] => g
+    [scheme] => 
+    [processed_args] => 
+    [extra_attr] => 
+    [alt] => 
+    [class] => 
+    [force_display] => 
+    [found_avatar] => 1
+)
+
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - URL: https://daviesguitars.io/wp-content/uploads/2019/01/Christopher-Davies.jpg
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - id or email: 2
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - Args: Array
+(
+    [size] => 96
+    [height] => 96
+    [width] => 96
+    [default] => https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+    [force_default] => 
+    [rating] => g
+    [scheme] => 
+    [processed_args] => 
+    [extra_attr] => 
+    [alt] => 
+    [class] => 
+    [force_display] => 
+    [found_avatar] => 1
+)
+
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - URL: https://daviesguitars.io/wp-content/uploads/2019/01/Christopher-Davies.jpg
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - id or email: 2
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - Args: Array
+(
+    [size] => 48
+    [height] => 24
+    [width] => 24
+    [default] => https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+    [force_default] => 
+    [rating] => g
+    [scheme] => 
+    [processed_args] => 
+    [extra_attr] => 
+    [alt] => 
+    [class] => 
+    [force_display] => 
+    [found_avatar] => 1
+)
+
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - URL: https://daviesguitars.io/wp-content/uploads/2019/01/Christopher-Davies.jpg
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - id or email: 2
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - Args: Array
+(
+    [size] => 24
+    [height] => 24
+    [width] => 24
+    [default] => https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+    [force_default] => 
+    [rating] => g
+    [scheme] => 
+    [processed_args] => 
+    [extra_attr] => 
+    [alt] => 
+    [class] => 
+    [force_display] => 
+    [found_avatar] => 1
+)
+
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - URL: https://daviesguitars.io/wp-content/uploads/2019/01/Christopher-Davies.jpg
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - id or email: 2
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - Args: Array
+(
+    [size] => 128
+    [height] => 64
+    [width] => 64
+    [default] => https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+    [force_default] => 
+    [rating] => g
+    [scheme] => 
+    [processed_args] => 
+    [extra_attr] => 
+    [alt] => 
+    [class] => 
+    [force_display] => 
+    [found_avatar] => 1
+)
+
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - URL: https://daviesguitars.io/wp-content/uploads/2019/01/Christopher-Davies.jpg
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - id or email: 2
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - Args: Array
+(
+    [size] => 64
+    [height] => 64
+    [width] => 64
+    [default] => https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+    [force_default] => 
+    [rating] => g
+    [scheme] => 
+    [processed_args] => 
+    [extra_attr] => 
+    [alt] => 
+    [class] => 
+    [force_display] => 
+    [found_avatar] => 1
+)
+
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - URL: https://daviesguitars.io/wp-content/uploads/2019/01/Christopher-Davies.jpg
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - id or email: 2
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - Args: Array
+(
+    [size] => 52
+    [height] => 26
+    [width] => 26
+    [default] => https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+    [force_default] => 
+    [rating] => g
+    [scheme] => 
+    [processed_args] => 
+    [extra_attr] => 
+    [alt] => 
+    [class] => 
+    [force_display] => 
+    [found_avatar] => 1
+)
+
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - URL: https://daviesguitars.io/wp-content/uploads/2019/01/Christopher-Davies.jpg
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - id or email: 2
+Mon, 09 Dec 2019 09:46:09 - [IP: 203.123.107.3] - [User: christopher] - Args: Array
+(
+    [size] => 26
+    [height] => 26
+    [width] => 26
+    [default] => https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+    [force_default] => 
+    [rating] => g
+    [scheme] => 
+    [processed_args] => 
+    [extra_attr] => 
+    [alt] => 
+    [class] => 
+    [force_display] => 
+    [found_avatar] => 1
+)
+
+Mon, 09 Dec 2019 09:46:13 - [IP: 203.123.107.3] - [User: christopher] - URL: https://daviesguitars.io/wp-content/uploads/2019/01/Christopher-Davies.jpg
+Mon, 09 Dec 2019 09:46:13 - [IP: 203.123.107.3] - [User: christopher] - id or email: 2
+Mon, 09 Dec 2019 09:46:13 - [IP: 203.123.107.3] - [User: christopher] - Args: Array
+(
+    [size] => 128
+    [height] => 64
+    [width] => 64
+    [default] => https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+    [force_default] => 
+    [rating] => g
+    [scheme] => 
+    [processed_args] => 
+    [extra_attr] => 
+    [alt] => 
+    [class] => 
+    [force_display] => 
+    [found_avatar] => 1
+)
+
+Mon, 09 Dec 2019 09:46:13 - [IP: 203.123.107.3] - [User: christopher] - URL: https://daviesguitars.io/wp-content/uploads/2019/01/Christopher-Davies.jpg
+Mon, 09 Dec 2019 09:46:13 - [IP: 203.123.107.3] - [User: christopher] - id or email: 2
+Mon, 09 Dec 2019 09:46:13 - [IP: 203.123.107.3] - [User: christopher] - Args: Array
+(
+    [size] => 64
+    [height] => 64
+    [width] => 64
+    [default] => https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+    [force_default] => 
+    [rating] => g
+    [scheme] => 
+    [processed_args] => 
+    [extra_attr] => 
+    [alt] => 
+    [class] => 
+    [force_display] => 
+    [found_avatar] => 1
+)
+
+Mon, 09 Dec 2019 09:46:13 - [IP: 203.123.107.3] - [User: christopher] - URL: https://daviesguitars.io/wp-content/uploads/2019/01/Christopher-Davies.jpg
+Mon, 09 Dec 2019 09:46:13 - [IP: 203.123.107.3] - [User: christopher] - id or email: 2
+Mon, 09 Dec 2019 09:46:13 - [IP: 203.123.107.3] - [User: christopher] - Args: Array
+(
+    [size] => 52
+    [height] => 26
+    [width] => 26
+    [default] => https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+    [force_default] => 
+    [rating] => g
+    [scheme] => 
+    [processed_args] => 
+    [extra_attr] => 
+    [alt] => 
+    [class] => 
+    [force_display] => 
+    [found_avatar] => 1
+)
+
+Mon, 09 Dec 2019 09:46:13 - [IP: 203.123.107.3] - [User: christopher] - URL: https://daviesguitars.io/wp-content/uploads/2019/01/Christopher-Davies.jpg
+Mon, 09 Dec 2019 09:46:13 - [IP: 203.123.107.3] - [User: christopher] - id or email: 2
+Mon, 09 Dec 2019 09:46:13 - [IP: 203.123.107.3] - [User: christopher] - Args: Array
+(
+    [size] => 26
+    [height] => 26
+    [width] => 26
+    [default] => https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+    [force_default] => 
+    [rating] => g
+    [scheme] => 
+    [processed_args] => 
+    [extra_attr] => 
+    [alt] => 
+    [class] => 
+    [force_display] => 
+    [found_avatar] => 1
+)
+
+Mon, 09 Dec 2019 10:01:37 - [IP: 203.123.107.3] - [User: christopher] - largehttps://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:01:37 - [IP: 203.123.107.3] - [User: christopher] - largehttps://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:01:37 - [IP: 203.123.107.3] - [User: christopher] - largehttps://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:01:37 - [IP: 203.123.107.3] - [User: christopher] - largehttps://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:01:37 - [IP: 203.123.107.3] - [User: christopher] - largehttps://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:01:41 - [IP: 203.123.107.3] - [User: christopher] - largehttps://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:01:41 - [IP: 203.123.107.3] - [User: christopher] - largehttps://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:03:17 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:03:17 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:03:17 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:03:17 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:03:17 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:06:51 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:06:52 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:06:52 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:06:52 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:06:52 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:10:06 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:10:06 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:11:02 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:11:03 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:11:03 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:11:03 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:14:23 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:14:23 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:14:26 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:14:26 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:14:26 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:14:26 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:14:26 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:15:49 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:15:49 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:15:49 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:15:49 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:15:49 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:15:58 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:15:58 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:19:01 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:19:01 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:19:01 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:19:01 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:19:01 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:21:40 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:21:41 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:21:41 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:21:41 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:21:41 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:25:04 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:25:05 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:25:05 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:25:05 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:25:05 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:26:38 - [IP: 203.123.107.3] - [User: christopher] - mediumhttps://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:26:38 - [IP: 203.123.107.3] - [User: christopher] - mediumhttps://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:26:38 - [IP: 203.123.107.3] - [User: christopher] - mediumhttps://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:26:38 - [IP: 203.123.107.3] - [User: christopher] - mediumhttps://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:26:38 - [IP: 203.123.107.3] - [User: christopher] - mediumhttps://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:28:21 - [IP: 203.123.107.3] - [User: christopher] - mediumhttps://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:28:21 - [IP: 203.123.107.3] - [User: christopher] - mediumhttps://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:28:21 - [IP: 203.123.107.3] - [User: christopher] - mediumhttps://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:28:21 - [IP: 203.123.107.3] - [User: christopher] - mediumhttps://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:28:21 - [IP: 203.123.107.3] - [User: christopher] - mediumhttps://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:30:07 - [IP: 203.123.107.3] - [User: christopher] - 24https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:30:07 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:30:07 - [IP: 203.123.107.3] - [User: christopher] - 24https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:30:07 - [IP: 203.123.107.3] - [User: christopher] - 64https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:30:07 - [IP: 203.123.107.3] - [User: christopher] - 26https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:31:13 - [IP: 203.123.107.3] - [User: christopher] - 24https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:31:13 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:31:14 - [IP: 203.123.107.3] - [User: christopher] - 24https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:31:14 - [IP: 203.123.107.3] - [User: christopher] - 64https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:31:14 - [IP: 203.123.107.3] - [User: christopher] - 26https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:34:35 - [IP: 203.123.107.3] - [User: christopher] - 24https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:34:35 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:34:35 - [IP: 203.123.107.3] - [User: christopher] - 24https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:34:35 - [IP: 203.123.107.3] - [User: christopher] - 64https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:34:35 - [IP: 203.123.107.3] - [User: christopher] - 26https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:36:23 - [IP: 203.123.107.3] - [User: christopher] - 24https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:36:23 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:36:23 - [IP: 203.123.107.3] - [User: christopher] - 24https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:36:23 - [IP: 203.123.107.3] - [User: christopher] - 64https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:36:23 - [IP: 203.123.107.3] - [User: christopher] - 26https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:37:54 - [IP: 203.123.107.3] - [User: christopher] - 64https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:37:54 - [IP: 203.123.107.3] - [User: christopher] - 26https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:38:15 - [IP: 203.123.107.3] - [User: christopher] - 64https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:38:15 - [IP: 203.123.107.3] - [User: christopher] - 26https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:38:16 - [IP: 203.123.107.3] - [User: christopher] - Cleared cache on css save
+Mon, 09 Dec 2019 10:38:38 - [IP: 203.123.107.3] - [User: christopher] - 24https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:38:38 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:38:38 - [IP: 203.123.107.3] - [User: christopher] - 24https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:38:38 - [IP: 203.123.107.3] - [User: christopher] - 64https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:38:38 - [IP: 203.123.107.3] - [User: christopher] - 26https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:39:33 - [IP: 203.123.107.3] - [User: christopher] - 64https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:39:33 - [IP: 203.123.107.3] - [User: christopher] - 26https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:39:34 - [IP: 203.123.107.3] - [User: christopher] - Cleared cache on css save
+Mon, 09 Dec 2019 10:40:36 - [IP: 203.123.107.3] - [User: christopher] - 24https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:40:36 - [IP: 203.123.107.3] - [User: christopher] - 96https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:40:36 - [IP: 203.123.107.3] - [User: christopher] - 24https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:40:36 - [IP: 203.123.107.3] - [User: christopher] - 64https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:40:36 - [IP: 203.123.107.3] - [User: christopher] - 26https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:44:00 - [IP: 203.123.107.3] - [User: christopher] - 64https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:44:00 - [IP: 203.123.107.3] - [User: christopher] - 26https://daviesguitars.io/wp-content/uploads/2019/01/Davies-Guitars-Logo-2-Favicon.png
+Mon, 09 Dec 2019 10:44:00 - [IP: 203.123.107.3] - [User: christopher] - Cleared cache on css save
+Mon, 09 Dec 2019 10:49:57 - [IP: 203.123.107.3] - [User: christopher] - Cleared cache on css save
+Mon, 09 Dec 2019 10:53:40 - [IP: 54.36.149.63] - [User: Guest] - term: scuffham
+Mon, 09 Dec 2019 11:09:07 - [IP: 203.123.107.3] - [User: christopher] - Cleared cache on css save
+Mon, 09 Dec 2019 11:13:09 - [IP: 203.123.107.3] - [User: christopher] - Cleared cache on css save
+Mon, 09 Dec 2019 11:14:06 - [IP: 203.123.107.3] - [User: christopher] - Cleared cache on css save
+Mon, 09 Dec 2019 11:20:20 - [IP: 203.123.107.3] - [User: christopher] - Cleared cache on css save
+Mon, 09 Dec 2019 11:26:02 - [IP: 203.123.107.3] - [User: christopher] - Cleared cache on css save
+Mon, 09 Dec 2019 11:27:59 - [IP: 203.123.107.3] - [User: christopher] - Cleared cache on css save
+Mon, 09 Dec 2019 11:31:32 - [IP: 203.123.107.3] - [User: christopher] - Cleared cache on css save
+Mon, 09 Dec 2019 11:35:01 - [IP: 203.123.107.3] - [User: christopher] - Cleared cache on css save
+Mon, 09 Dec 2019 11:35:45 - [IP: 203.123.107.3] - [User: christopher] - Cleared cache on css save
+Mon, 09 Dec 2019 11:39:24 - [IP: 203.123.107.3] - [User: christopher] - Cleared cache on css save
+Mon, 09 Dec 2019 12:15:30 - [IP: 99.203.65.139] - [User: Guest] - Array
+(
+    [first_name] => Jeremy
+    [username] => jeremydavidson1974@gmail.com
+    [email] => jeremydavidson1974@gmail.com
+    [password] => chevy454
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLQOM5A2EuGgfdGukr6A4_73aWTDR3Z0ZOzvn8iT6HQgiSaY9wHQmeTUZ-7GlgjTxLPsCMv2bYAS6FFDnJ4OcZSrxLeHvSAQQF5GJfdUgdejt8tttbz1MKqSVhbv9zv1YC5Pn5xid-vCAiKZwIS140JybIOtPB8i5sg2RX-AJeGtmphluA4Ngdmd-c8PSuMggKN2maVUjsgeMZDIvnSnlKn5egz1-EA-gfFPD7bePdAN9vVyYaLeanqYMym498f7BewOQ2gBzxK-cg18y3LuQFVB9SFKdMaZO7UTnimNX6TUchvSQ0Rcisr2LDjwcuqzn6yEYado5zKO1H-g-3B2V6rJcA7TXrv505MF__PD8vtCWCihQZgqhHXGui9qhyRfF6WviKZM5X9nvykB-3OLPXSBriHn3z6JNMEIh1dCCEVRe2UmdMI-uiQp54zin9f7AzYZ0Cexvkl7pFkjas0-MR05MumHQgps6eqbepT79xluwhti0VFiWwjpdhPTveFSGh9GT_goXjDCp6ZLxfjCLPa4_dykl4z_Xnk-hLWCkVXxQQTTenGtDD1yttZT5bw4VHCMk2w_gj5S9Tp87g2esw5w6kULvQ
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Mon, 09 Dec 2019 12:15:35 - [IP: 99.203.65.139] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> An account is already registered with your email address. Please log in.<br>
+Mon, 09 Dec 2019 12:16:01 - [IP: 99.203.65.139] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> An account is already registered with your email address. Please log in.<br>
+Mon, 09 Dec 2019 12:16:36 - [IP: 99.203.65.139] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> An account is already registered with your email address. Please log in.<br>
+Mon, 09 Dec 2019 12:28:00 - [IP: 107.128.34.170] - [User: Guest] - Array
+(
+    [first_name] => Ronald
+    [username] => rtoolooze@yahoo.com
+    [email] => rtoolooze@yahoo.com
+    [password] => me262a24
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLRPjdl_s9LW1nkhAIspi-Vj91NiWtoXM9N23iZoutVsiTQet5-HZ3GdCItZNv44yvZId_MS2OeAg82xXK-kVaT8fX1dIOwJrIrbQn8XHOn-WY1A7XZymzfcb1Eh-B9HHfs_jBUwZZ6z6oUgW12nM_2mGclTDrbo6qHtVeeoY5XNjH_s3s6shjrbt6eA1oWBN1Qan-zZLsBD4-cY4V0r3Dd9o7BBLLkxltH-a1Nd-xc7QrZ87tuQDGLVbpww1A03mZ5C3pph0msU52iCBw-rZTRMHKbdiEb9kMzVUUFZ-8uatAOZnjFRawCYcyPHEsHriy5Hp02LD1lx4gbo3xDz1aPk6lNiuILDi5pg1j9TQ0eEzeBJafclv5C9MZeQ47NyDLZ1s4Qf0GYuXWIwrBCHAn-9S7Vv6TEJ4NMVC2br9NNYpQsFvU_RcywS08KLX2HmVWxVr4pLEVhS6Vdc56OCmwnkI4KmjNXwd4vhmMABfwtXsyZLVBjlbqdtsINB6bDGW-8JxhM6SZcz31Mrfl7pxwshpAGZkl0QL3QVFQ36cS-SJOgWS_n7A-WJm_tlD2eKx7be7PAugNvZlDsHjzbIH8i6jMC-d6yVRC2VAzs_WhwZ5QdX-U0
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Mon, 09 Dec 2019 13:20:57 - [IP: 66.249.75.226] - [User: Guest] - term: acmebargig
+Mon, 09 Dec 2019 14:10:51 - [IP: 70.62.80.55] - [User: Guest] - Array
+(
+    [first_name] => Mark
+    [username] => Lowgate
+    [email] => markcannell184@gmail.com
+    [password] => Lowgate1
+    [interested_in_learning] => music-theory
+    [g-recaptcha-response] => 03AOLTBLRqT8cGECkXiX-xXwKgdf7F3Z2tu5xW5-pj2kG3qnGTMNSUPw1UptWDR6ptMq0CiWStfHW3eWU7nDtZIa7DgCIng7dPwg1PHxw0VUNZu1jvVc7xE7bwXN1u8pNJyieovM5RbPZycpxpr8eiAXLLQb4xEOPX1ej_2FWQLwfrwur7U4veUSw2XUf_R9KLiT1bCbN9A9MD1-VLU5I1byydS5TYPStlRusDRutwgVmPtSUjCcZ1J9-AgxDXyzHrscSJXxNqIGUc3_-eCWMX7Hx2h0qIw0uON3wMHWFlFxd7bSJ4oNWTpoXVQHItcq2gAvQMEypz8Kf5LRcbh_8J8fNn3urgjS7GadXaKy9wrRYnA1i8IlMNba8NYdziPmkiHkceV3MJvEESNfLqPEMy8mk4B4_4mX0lkaq_hWiPi-fkPMqlW05SqM4Q0JkTTQirOJxWMnl1QvFx-0zBD03IqY8SIKic0Ad_msw-zPTJ5kxPcXDfekfvhKLaP0e2fTd2KsD1glsNI-xFsGHnJiUfIb-o5PTMqO6PSVDqWU_fH9Up7wx3yRjqAx4
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Mon, 09 Dec 2019 15:34:33 - [IP: 70.62.80.55] - [User: Guest] - <br>Woocommerce notice: <strong>ERROR</strong>: The username or password you entered is incorrect. <a href="https://daviesguitars.io/my-account/lost-password/" title="Password Lost and Found">Lost your password</a>?<br>
+Mon, 09 Dec 2019 15:36:18 - [IP: 174.242.138.166] - [User: Guest] - Array
+(
+    [first_name] => Jesse
+    [username] => jessecovey@rocketmail.com
+    [email] => jessecovey@rocketmail.com
+    [password] => Motorhead!
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLTkyQNFIQ-zOEVWThzRLBTvcAivElME5Pj1_AG7Yf1bdK5BOgFZh2LjpXw77aWF1-1AIlelwPdEb0TPK5nolgBQnlChndxyUm-XBgcnamfRWty1FMkQ3cq2aNpUOp38QmYGE3IsQlv9uwnd7Hww34JorXJWAX5_hB_PacqfL70ud_cTYy-3d0PhNaozdYY0pCZ2sU1GC1KLSy_zQdwdCoO1LLlQgY1vT7kfNtfSWnJD2Q1es_PtoHUQgb2-4H66RvXvhjM0_2sjnCugz4m_j6MShe4avjyeGE_B4Fb9ZjAPNSroAsyjMH9vegAuEj6_uJz-FtI7V4gakRCMg8TvZw6mRRN7lX-OICe4u6EsqP_aN3u_ZFbamV9VkUlIX9ycDOHVDnpO4stzTZMVsS0oN6BZEXs3FgFFG0Ih-MD41ghp_Khso7feBxPfQdXyg14XEpW9OM-rHr98sfibSzkLNHvGmd52xcRjs9PvfPQcAANg_xFlBBodsqgY9cffuP37_ynzUeX5QyoykFej1liHJqsQB3t46b4_9DRqrQjU1Lnl5dRCrdbJMSyD-KLYqLcaeOJJZ6r1jBRx97OaSlHDKCeU4eiZZmNNRMU9FdgsAg6odrDnNmk
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Mon, 09 Dec 2019 15:36:22 - [IP: 174.242.138.166] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> An account is already registered with your email address. Please log in.<br>
+Mon, 09 Dec 2019 15:36:23 - [IP: 174.242.138.166] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> An account is already registered with your email address. Please log in.<br>
+Mon, 09 Dec 2019 15:43:24 - [IP: 174.242.138.166] - [User: jessecovey@rocketmail.com] - <br>Woocommerce notice: Account details changed successfully.<br>
+Mon, 09 Dec 2019 16:10:52 - [IP: 157.55.39.167] - [User: Guest] - term: avid
+Mon, 09 Dec 2019 16:18:35 - [IP: 207.34.244.94] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please solve Captcha correctly<br>
+Mon, 09 Dec 2019 17:35:06 - [IP: 83.51.108.126] - [User: Guest] - <br>Woocommerce notice: <strong>ERROR</strong>: The username or password you entered is incorrect. <a href="https://daviesguitars.io/my-account/lost-password/" title="Password Lost and Found">Lost your password</a>?<br>
+Mon, 09 Dec 2019 17:35:55 - [IP: 83.51.108.126] - [User: Guest] - <br>Woocommerce notice: <strong>ERROR</strong>: The username or password you entered is incorrect. <a href="https://daviesguitars.io/my-account/lost-password/" title="Password Lost and Found">Lost your password</a>?<br>
+Mon, 09 Dec 2019 17:38:28 - [IP: 83.51.108.126] - [User: Guest] - <br>Woocommerce notice: <strong>ERROR</strong>: The username or password you entered is incorrect. <a href="https://daviesguitars.io/my-account/lost-password/" title="Password Lost and Found">Lost your password</a>?<br>
+Mon, 09 Dec 2019 17:39:08 - [IP: 83.51.108.126] - [User: Guest] - <br>Woocommerce notice: <strong>ERROR</strong>: The username or password you entered is incorrect. <a href="https://daviesguitars.io/my-account/lost-password/" title="Password Lost and Found">Lost your password</a>?<br>
+Mon, 09 Dec 2019 17:39:41 - [IP: 83.51.108.126] - [User: Guest] - Array
+(
+    [first_name] => jon
+    [username] => jon
+    [email] => pachuko5@hotmail.com
+    [password] => ...k...e...i...
+    [g-recaptcha-response] => 03AOLTBLRawuQaRqHzmtAfZhtzd2FVM-osFzTngVWc6TW5tXVB5ZWzAJnTLPWNX5t58SDESbKXwSwRCWLWxlt60sNPluX0fCFbu3eVl30-UN824udNuwuwXCe2Z_33c_BQuvbX0lHlDZJNcThyM7mmNr2LXlziE099L91_P1IVaDzWw55CDs0-uvj9Mt0qp8y91lKPu-gKAo18eUPBOEzXVd6SZSUSPXJPggBoijkvKwiBZo8EIcnjlfjD7NRLsvZafXpkVn1NqU1Rd8_mil2VPpgvze8o8e5iWJn-KVfXjXL3XgdsK9GKxPfE1-HJEQMCxfwE9jXxW5ZyWbsxyqQ-Gma7r72oOBJ2ngfb_lLoBwLTG54o932q1ztUmM03UpTi8UcP0KMvbsrATmzZZjwxnM--LkC9Zzo7MzeZJRTqvwmNpTv2Tvk7Iwu6YmRfoEYBiR-6g55-FumMybUcDK_c2ZQzU7xK-k2e3XZOfeHCyws8MyIyF8OXCt2j9zX1J9TT8hthDphs3A9X
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /my-account/
+    [register] => Register
+)
+
+Mon, 09 Dec 2019 17:42:38 - [IP: 99.203.110.191] - [User: Guest] - Array
+(
+    [first_name] => Paul
+    [username] => Valente
+    [email] => valentepaul69@gmail.com
+    [password] => mymichelle1
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLRpO1-C8GeNWM-cb8SYALdbBrhqoLNboCDge9xhTpfUt_Yj0IRwZNkYSmR12cdsBKLTaArk6vpj244VGWeMW3LqXHkDW30wuOAuTVaB1VyOZr4WHLKuErNnPx_t4QIdG15UiMAu8BGK6gSf1UJ73tx85odqr5_5lt1dzNzkYiCyivUcAwCTEH7leJbkRzmitmGXoBnFIB-kNbKKGylVyCu9zdfdXYlFAArWDD8KJiLqROYXxmZIfWp-WGirZazgpxEb7EpkcGVJS9FRu1Xxdrm4xWhoFFlIQcBOq2CS24U6mnRrWxH1mybxKSTkoEW8peaCyEoIxFryjY0LxeqbVDQaYvuHuoglH9sbsE9jgCsstBY3s1wU8P2rE8LpqeeNPopVeOpdGgAHsXL3YICmVBAeF8-ajLW803vyL6TsckIozxLM0Tr5174hVrXKxNkt_d_kaHIGE80yaIi7VBCvWuseaV7GZiv4oMQSobI1ocZ1fea0uNkmFuR8Q0GlliGUgCmzh8Z1ftw13NclVz9MVqwJFEmCOQrM6j-fA7tZ73Z7jt4YZMJMCp2YaYH-ng87TICUT_VZIBB0xRIrB1Gr_3h3mVw74w
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Mon, 09 Dec 2019 17:56:11 - [IP: 54.36.148.189] - [User: Guest] - term: line-6
+Mon, 09 Dec 2019 18:31:27 - [IP: 207.46.13.170] - [User: Guest] - term: lepou-plugins
+Mon, 09 Dec 2019 18:49:09 - [IP: 157.55.39.167] - [User: Guest] - term: ph-dj-music
+Mon, 09 Dec 2019 21:00:16 - [IP: 99.46.24.150] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please solve Captcha correctly<br>
+Mon, 09 Dec 2019 21:50:21 - [IP: 203.45.143.184] - [User: christopher] - Cleared cache on css save
+Mon, 09 Dec 2019 22:12:24 - [IP: 107.145.96.226] - [User: Guest] - <br>Woocommerce notice: <strong>ERROR</strong>: The username or password you entered is incorrect. <a href="https://daviesguitars.io/my-account/lost-password/" title="Password Lost and Found">Lost your password</a>?<br>
+Mon, 09 Dec 2019 22:13:04 - [IP: 107.145.96.226] - [User: Guest] - Array
+(
+    [first_name] => Owen
+    [username] => owenisye
+    [email] => owenisye@gmail.com
+    [password] => AU835yAwqwyddYc
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLST1b0dBlXNXaMnAa5oAqFMZ78DswzTp-jSw4BWaVhPF5MBPgKCy07chzyFMZhc4L4PsWE-OEccgms_X90WsBOk-EgHPg8T9w2H4M3h9_4Twd2ODRLFMbCdK8WeJ-PKi3CgDbyhKpTfV8nPYz00Hu4qiKsUNpRIPlZdUccSoQMi4elvZRzuDaB3q9qqnpKTCnxkQEKhmFo49Q2J38hsAc-3L-hOc_YNBw3Wk3majDD3FLVNEh9ga4GQKtyUx3J2VpRA5N6Qhu6zwanbhbDQdwegZneU4sCiVNjjm2qOggC8kxD6dbEI-kwczfv79aMCVHT_Ci3GW-Y1dScXBr1wvfN1NGtp8izboa_8kxE78wIVZH_6kE3QejD9VuiwoKjUsObCt94a6vvYM0dKpG59IXbke13jghyWnj70zXELDlhZkDgbjBao51Ws2U1nQFegkOeaaSuGVkiBLmZNaFSktw1Z5o9FlkQwIwbKWfL5pwP8DGi63ssEKob4RVVJmxUTIIz2zNRUnWFLVHEF_WrOFCTm7ECOOUOSRt-yeKHZFl6hjcLpnUfHDi9iE6O72YegZrawqDCAymMuZujQUmCY6mf2o9BeEw
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /my-account/
+    [register] => Register
+)
+
+Mon, 09 Dec 2019 22:13:09 - [IP: 107.145.96.226] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> An account is already registered with your email address. Please log in.<br>
+Mon, 09 Dec 2019 22:13:09 - [IP: 107.145.96.226] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> An account is already registered with your email address. Please log in.<br>
+Mon, 09 Dec 2019 22:13:10 - [IP: 107.145.96.226] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> An account is already registered with your email address. Please log in.<br>
+Mon, 09 Dec 2019 22:13:10 - [IP: 107.145.96.226] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> An account is already registered with your email address. Please log in.<br>
+Mon, 09 Dec 2019 22:13:11 - [IP: 107.145.96.226] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> An account is already registered with your email address. Please log in.<br>
+Mon, 09 Dec 2019 22:13:11 - [IP: 107.145.96.226] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> An account is already registered with your email address. Please log in.<br>
+Mon, 09 Dec 2019 23:03:18 - [IP: 172.58.71.44] - [User: Guest] - Array
+(
+    [first_name] => Vance
+    [username] => DamianSeraphim
+    [email] => vancelewallen@gmail.com
+    [password] => L1ttl3f0x
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLQjzj4qos5yYg7iKBO8NVfNFCsJVhQjw5ib841vzWoZDypW0UTaAtggGHl3V6bj8J8ZhM7GPn-PbhfpdDbTEl29K3g65FfWI-MAMBrsoijtSdB8BbmXmh_N4XmgyzRwUbk8SHR0Zq53s-3oDU1T-K8wntqZvN2yJnvxrGimLkqzgAS-JNy_nWPj-ngXLLVe6lKxnoQBxUw7GRAwK9m4M0SIqZiH1smJEbht-LUdqEd98KyHIHN-mF7s2Yc3jUnx7h5eEOf0bo4S75UscIBmwQZ64XqZrF7UcvdB9v-3awkKgFIsltKQE93KAynBgwEmjVlO1TI3DK80amUAecF3peBqRBw-OzwY6rJXPIvAk3CmeyYcXyMWs7XITUSZlynXZNLbC1MW-yR4ndh-lpvCGUNso162w5Jn5_r581rWpw5r9NYKwHv_CrBOHgF-y2rDs3tjwQccqsVxcotLlCHuSWycFDvnOSJtmRiK0uWETwgu1bhsyHTtfH2OgXtWY8KTvLp0iDXJA1_meZwSfeEDzjbQbwbqswssSFcPgNIwlfJcb5rhnvSjprWTAvFNAZSHULs9c_q8019nzb7MQxjl9OO1A3KOyf93xbYK-LaaxkDmAydccDA
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Mon, 09 Dec 2019 23:10:35 - [IP: 172.58.71.44] - [User: damianseraphim] - <br>Woocommerce notice: <strong>Last name</strong> is a required field.<br>
+Mon, 09 Dec 2019 23:10:56 - [IP: 172.58.71.44] - [User: damianseraphim] - <br>Woocommerce notice: Account details changed successfully.<br>
+Mon, 09 Dec 2019 23:35:15 - [IP: 172.58.101.90] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please solve Captcha correctly<br>
+Mon, 09 Dec 2019 23:36:34 - [IP: 172.58.101.90] - [User: Guest] - Array
+(
+    [first_name] => John honeycutt 
+    [username] => Jhsaber7
+    [email] => ace3plp6@outlook.com
+    [password] => 3plp6
+    [g-recaptcha-response] => 03AOLTBLRaxSjWzCI8zRlMHaUpwxM6JEo2ae-b4CutMFnDGk3CvElGRc4YdK_J0j_S3Hk0oE-XjvZ3SOq6-xVJ_mo3M6xPtwiPsas1Ap4uuL61ugKshPy1NHNdvt616OjydlGssMiVp9pp4o9DVOrRkJSrBi2DBIU87b7xRjUBnGIYK3UYTvjGkda1N5bvJ7uEE0aH6qRhstcdGL2BIAaIh8JC-oQmLFDgd6OozBdwQoZt2Ymt0ExLevju61JoEzx-xOI-pdsjkIXYyfi5xzTpKijkqyFK3nf1xfNgBqBLzC8rTwe9tliGsHCiis7UgFSPO-nN2mOAjli6c5SauOQuItYdAEtSBA-phWDI4FDFPli1n8F-SxRz-w2mtcD_QKbCZX6HK5NytBEOaZ4wlZVRUegYgqH8DqubU9N3RBKUIt-OeM3wWu5gVxukKDn5IsnGmdYL3V__ZyuYEqbP6ehmeFJBLJEIwvY73f5uzlcB_C547YoEmMh4aXKylmHQPHs616uU5KywlJp1ubpk4uLjOoEOBf2bTwSVbgmp56jDIitnuIqxSA6Gc22AgToLi8grRXTbTF5528oXbX8X4CYrxnjTgHWzyiYEfw
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29&fbclid=IwAR1Evdxcxtp0_xyk172XTW-aohGoGjtgdP04otXY_AdwRkyIX2nEvtMtoPU
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Mon, 09 Dec 2019 23:45:30 - [IP: 174.254.132.130] - [User: Guest] - Array
+(
+    [first_name] => Kasey 
+    [username] => Zero
+    [email] => kasey81r@gmail.com
+    [password] => newlife42
+    [interested_in_learning] => writing
+    [g-recaptcha-response] => 03AOLTBLRvz98zvDVgKIqk6HxjwrfADfIWlA92GsdjkDs1N_GLVzHz2Vcxk_B0cbyvOXoGJbHrP_B_YqHTxL6n0HxHZrOaBOLVa-u67-lMa1jroNSDLAcE3lKG31nfObr_HJ-cbqeD-m-Qdo7L_xEh9qLNoCaVaYCwYvkHSwt5URRmnSFfpEFuFn4lJ2sPMw9k_rxdL-nai8n_T6erVMkgpoYbgMsaD28CidOkBySeJprs22BIpKc9phZ6sV883BoSzk256-JGRL-GfxgweAernpoqO30Ot957s5n1J5GOPRP_FybweHsaC4F44X9_2OOy2ec5uwueJPwq5rApP2Ma5DUpn1EkbgC5FlFuBE1A5AwfVU3CHkXPRTellOY_bXopxOyrEcJtJl29xatF-JYfF0_PssEfZrSR7X54Sf_xZRJICr-OXpv4_5nlj21DvvqwJaj9s8S4BIUZmm1RR7mWVQhapwa6nxx7Vpp4rHoJqxDB1DJpXxBa2kQbc3fUl_2bq63imukjeSPjUqZH-dbI2Gr386z3TWDWuJS71PzCAs1ala6DM23KrBU
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Mon, 09 Dec 2019 23:50:38 - [IP: 207.46.13.229] - [User: Guest] - term: fractal-audio-systems
+Mon, 09 Dec 2019 23:55:05 - [IP: 174.254.132.130] - [User: zero] - <br>Woocommerce notice: <strong>Last name</strong> is a required field.<br>
+Mon, 09 Dec 2019 23:55:35 - [IP: 174.254.132.130] - [User: zero] - <br>Woocommerce notice: <strong>Last name</strong> is a required field.<br>
+Mon, 09 Dec 2019 23:56:00 - [IP: 174.254.132.130] - [User: zero] - <br>Woocommerce notice: Account details changed successfully.<br>
+Tue, 10 Dec 2019 00:09:23 - [IP: 203.45.143.184] - [User: christopher] - <br>Woocommerce notice: Account details changed successfully.<br>
+Tue, 10 Dec 2019 00:48:41 - [IP: 203.45.143.184] - [User: christopher] - Cleared cache on css save
+Tue, 10 Dec 2019 01:22:16 - [IP: 172.58.221.174] - [User: Guest] - Array
+(
+    [first_name] => Dakota
+    [username] => dsfenrir
+    [email] => dsfenrir13@gmail.com
+    [password] => wolves13
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLQ9ylTG8q9hGgwshdYR7ipkPlxV_3A2A61xArFqwJUhtd723MYasO6kdr6DKT1ye8RA5G_qTdORSAQp97SAcQOjzaG89nrNTa2ONhTOzGrj9t39_1Ddtk0lquUvi0htBJu-rCHvcxBKYHchOj2ZBfZcXmZFwGKeuS-bgQun5LAoivj9VO10pL2ssF1VF4PZPrGso6-ZnYsz9Ti6yLlCQXSQW4Tb6Th5PzaHp1TlqupztYxST1eooeeOrMhNr-8B1hC7GF9GHcwoBlQZRrhToBxnVAGOlMeyzRQrr5y6B6Ca7zqDx4OSfG7AOq6G5JOoQTK2v5yYzWZASlVLEk0mPzyii6nj_oN3xSAhuzf6CNoQdISn1Hy71EIh-CNxrfH24x4Q2MU7eToqviPalKVzASIvgCIEjeEXEkQJgp5tcxoY2soNTvAAaoh5nqEb2_u49_vFR2wUYwYe6BvacHn6wo6525GgbXmAPgiMVy8GB_1H1TujHxOHELn6r4rYhk-begNPjGvyP7XQtx4i5fAUViRjtVZnL5NPQR9SIOOAo1TvWstNIy_QZfwRJe4k8nFPrKu05abLi9UFJ6npKxTXq68o1ahgxH7bfNGXnxzNntYB4SYiz1s
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Tue, 10 Dec 2019 02:41:39 - [IP: 99.203.200.140] - [User: Guest] - Array
+(
+    [first_name] => Stu
+    [username] => Dang ol. Diesel
+    [email] => smcqueen8806@gmail.com
+    [password] => skateking1
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLRuDNnm4S7IpGBy2RN6AVWg-99ESSy933Ya_L292LQYjc0lEYr9p8lzkgaVHtAmu8JkpJIMwI1g95yos0yBunEvoCZougr9L7KBUKVjsDfHWqLd_KJzpDlfAtP_kAQdBAe0ZX3wPgqXcsIBbzMqTJG4htWz4Am0WkyvuVv0HrAfRux0GYSSM8zVZhy5tdNB1OTaHltF_zDggkwAhmnHvCyNp6CmH08e3rb5qgUtJDqQR6M0OfBn2VQ6etY1cQuLweywuXQhB8ZuXLXULzGThwJD_-dU4LJK2FAcVcJA1iEtr0W8PlQTu_XvK0_6VLX84SMMbmjHrpTzP5r1IgdSqS1MoPMRn26wB9dqYjwSVzcHHWGe-WtWpGbKlEFzowCcv1DDJhOYrbOFUk9RvMNeqApACznzWfp-nZ023QS0XckughznpUzcgPEVXOD7c7MaY1g7tip7SQY5KCEqOPUHOtHTDcI6FhgzmpjhcBQ975rO087x9URHjnAx-jQcEy_fYc4dxFf1bokTdATsHz5uftBncf3iRuzZ0t2D8YZSorPezi4PU77MUYH8mQleCvl3syxAvW1wBtBW2xGckZp3B4cjJgOd1A
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29&fbclid=IwAR1om0UzmITqJR2HznOB3alC6IuaDXWqS4KYsXQH1n1lNjjtduTSUkOGg8s
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Tue, 10 Dec 2019 02:44:13 - [IP: 73.196.43.211] - [User: Guest] - Array
+(
+    [first_name] => Patwurst1967@gmail.com
+    [username] => Patwurst
+    [email] => patwurst1967@gmail.com
+    [password] => 2026bangor
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLQ2OHMEqkLyz0z9k7FB58fi0qDaY5dzEHaZZ_aqGhm6wUebX_5DWEWh2RWDvMFcePVdL6f8VSCKFIVQ0FrsIFYCsQ4SYITz2-hrrnymt1TObft79_bWQU8P1E8K4DlNkER0vM7dRY3ZPZDDmHP0BYMg2QyUVhNWNZTd1iWQE42-UYUHj3HQ6qWtJgRtF022Qhl13H1RiNhRExUxnWqafydjYZu4qm6ThbQOeS3w7fGJ-RUFX4K9qU1RopfW1JeQPh7IJxKU-3uF5P3FWrHw7R_epeE3NO2picpG0YBImRqqfXkTZmiqTsdYZQ4IsBgX9XfWaKQ2wBbntPw7nvwnfeWd4Uo4lll-q6CgziDfQW3uwfu_WBfqXMzvWRSgMN184iBDMxpRhIqWFtzKBth587PAO9V-0xOvMgsIbbwz7mLY2zA6mbeg5wwwJ_iG2KsaMVKAEX8p096wZu31IxSY7lyFsAOjKv1Mp0W7oWH6YgSdSdNcfItUoK2JBTHom5Ot_j0X9zVwDdwdBb6yZvNYmXsTTomcVoFglBk0_moZ5q88Qq8itRcLGrIyMa-53KGCjvmZGB50BbWqFQXb1ixxMkTY7rEJSg
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29&fbclid=IwAR2fLC68x7kFLsE7dNDAi9Qy41ds67LOqVK9BZtx1i2n75FmNf8gSg2aNyI
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Tue, 10 Dec 2019 03:12:46 - [IP: 203.45.143.184] - [User: christopher] - Cover Image attachment id: 22515
+Tue, 10 Dec 2019 03:12:46 - [IP: 203.45.143.184] - [User: christopher] - Cover Image Echo attachment id: 22515
+Tue, 10 Dec 2019 03:12:58 - [IP: 203.45.143.184] - [User: christopher] - Cover Image attachment id: 22515
+Tue, 10 Dec 2019 03:12:58 - [IP: 203.45.143.184] - [User: christopher] - Cover Image Echo attachment id: 22515
+Tue, 10 Dec 2019 07:49:51 - [IP: 40.77.167.126] - [User: Guest] - term: axp
+Tue, 10 Dec 2019 08:18:50 - [IP: 40.77.167.195] - [User: Guest] - term: reampzone
+Tue, 10 Dec 2019 09:19:39 - [IP: 50.110.28.160] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please solve Captcha correctly<br>
+Tue, 10 Dec 2019 09:20:18 - [IP: 50.110.28.160] - [User: Guest] - Array
+(
+    [first_name] => Jdx
+    [username] => jDx
+    [email] => joahuaadkinsx@gmail.com
+    [password] => @jaden07
+    [interested_in_learning] => writing
+    [g-recaptcha-response] => 03AOLTBLSqq9UC-v9a1METN1T-hk3odIzEMur7VJDL-PKLuolQGO1OW5SfbNCJ6jKGeB7VHSujT_K-X2bCgPWJweANZLjwfhpvndTg0Nh2BBaJrxz7GpjtO79aiQnsCKQMApbafgPKb8e9SUt78Gq8gtwZMx9A3qv9HthD2PIRNm3LvU4JFeQW0vi9zvm6Wx9kD7HCLrITmGF3vIR9VXX6HZ2HyGsrxedS1S_tw7-_-Ufner2ETvj70zNoduE7b3WCV7961cPapZcHpNkniD3Nti5AfzEKrEizHOdoO30IYpaEHh3dUajN5X2DdKVFd21HDqTvaC4tKTn7s7FSdqxQpQ26-3vs2ufgURKePhrjWyp8FAALHKaphanTn-JHGkDsrNHAkIpo5lVgez4GwqGyZO5oDNQ-aTorEu83FMeoxKt9s4zWLF8S4Ui4eOBk-uUsL5t4GpC9EawD7uWxgMwp0oYTgNpGKVs6MZc81JxAmw_frBM44l1oxIc4dfIvla22qToV-XO7GiZJf3k3V9HIGe0FLgAsVDY-wfqkFKdWIz7Z8852cvCcyaY
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Tue, 10 Dec 2019 09:58:28 - [IP: 50.110.28.160] - [User: Guest] - <br>Woocommerce notice: <strong>ERROR</strong>: The username or password you entered is incorrect. <a href="https://daviesguitars.io/my-account/lost-password/" title="Password Lost and Found">Lost your password</a>?<br>
+Tue, 10 Dec 2019 09:58:37 - [IP: 50.110.28.160] - [User: Guest] - <br>Woocommerce notice: <strong>ERROR</strong>: The username or password you entered is incorrect. <a href="https://daviesguitars.io/my-account/lost-password/" title="Password Lost and Found">Lost your password</a>?<br>
+Tue, 10 Dec 2019 10:02:01 - [IP: 50.110.28.160] - [User: Guest] - <br>Woocommerce notice: <strong>ERROR</strong>: The username or password you entered is incorrect. <a href="https://daviesguitars.io/my-account/lost-password/" title="Password Lost and Found">Lost your password</a>?<br>
+Tue, 10 Dec 2019 10:02:45 - [IP: 50.110.28.160] - [User: Guest] - <br>Woocommerce notice: Invalid username or email.<br>
+Tue, 10 Dec 2019 12:38:56 - [IP: 183.161.7.126] - [User: Guest] - term: lepou-plugins
+Tue, 10 Dec 2019 13:07:27 - [IP: 76.118.89.133] - [User: Guest] - Array
+(
+    [first_name] => David Hinchliffe
+    [username] => Dimebag
+    [email] => Davidhinchliffe999@gmail.com
+    [password] => Harley#86
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLTB3jVlPdvndUnTiVR3a5_nBe70h_vijukWJDqLlI-LSSJPSYy-xCHAk_cyU1PXWlexS96u_Jf9EybCkrvF-RVm5uGLZwVgO3uKp0wFB5CREVPgKl_NhQnKeN9HlpslQt1tKBoGpSuvA-eQCGaDhGSmKi1KfTfE1tKkw6z72iOej1pr7i952gPG6ra7Kl7INDdhXxtZvu96Wg9_M_d8f6NJJhgoalq0Stqb80O6ZBW5ySKz4AEEZwPRBnbZP_F_O4Z2hDhKOGTWir7fHNJad_wTH_Lgv9bpiw-qW9vVnLsNfc_LsAALnn6kVLMHRHq7_HEeBmwj2bdErTleKm2-SDW40GjK1reGPhbzR5su1K1DevS0eTS1TVP39mloBuV7IUkW_0rvvUCrfuh3rf9naTnK8HvPFsFyAzR7IiYvr4pfrvprxG6vXxjGAmB1N17mGA9-UDVYXBWErzjvYkLy_MrLab5XJXgcSIATw_8A-qzOIuqkOZtkDRVU23l6guQ6bzFk-e9fKeqS0CcUtdC2WurSGVOYz_2BXHbIIJMnocQQeCGH_MHr2xCBhmw0ptvsddqCNibbZc-8peeOdP6OBuGEdvxR3clGXXg8aLgpCq465TWo-So
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29&fbclid=IwAR3K3phKa9QazL3vE76GjuvBRppxH8NYnHt24GmIcXYwDYxwRuVmbjy62c8
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Tue, 10 Dec 2019 13:07:34 - [IP: 76.118.89.133] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> An account is already registered with your email address. Please log in.<br>
+Tue, 10 Dec 2019 13:34:08 - [IP: 172.58.140.114] - [User: Guest] - Array
+(
+    [first_name] => Frankie
+    [username] => Blazenator
+    [email] => revenge4jd@hotmail.com
+    [password] => blaze1711
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLTkdax6G7VtlKFCvWZxqzj-LOKVeuJ_-dLvR_S_0e_NpFrbNl_lEef5DgcavKw9UdX3070fjyq8EOkX0SM5VCIyocEea99FFspgNydcIUXvTbtPSo0Zsc3PPAgQy54P0s0VsrajV7ZJxdwLVN8TnxRdpCmloOS0g9i1wiDbjrd5mgkyFReF52aa8YlErSubfI-LIoe1NO_nI23ENBW6zLg3yzE-AZx35LlJVe646z46Uvx1hRKuQ5uLaVJEOQ-t4q8CVxUgZrR4FgmoQXG1uAGjNmcQMHxn-ErFcbAOJSNtUfyDrXk63tBuQLpaevKbC2Ngi6p-r4Ecz-3mBziApLVn5zoH_hkjEsA89A2MT_4IsHAAC4DyAd2H_1U-irGTF9YxV8zKhtyEQY1FA4BzbyUat_4q_dCl4sqwp36t54-bfbV5AsiOzXOR2gf5drj070JjyM5dzyK1KUJD3MrvTu7W9tZeOl9wonk_0LlkZQ0GNvpx7-PvxxrW1Id1frs4vvy4QexL67W9uCArZpOQZpjIN5ajzOkxnOnSzx6vjHmIZaIAEhlRqxNiKY6rBvnKNivlWb3YSUg42YhE49mpZPg2oV3IDjXq4nv5QMLwC1_f8pl2t7E
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Tue, 10 Dec 2019 13:34:13 - [IP: 172.58.140.114] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> An account is already registered with your email address. Please log in.<br>
+Tue, 10 Dec 2019 13:34:13 - [IP: 172.58.140.114] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> An account is already registered with your email address. Please log in.<br>
+Tue, 10 Dec 2019 13:54:19 - [IP: 76.118.89.133] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> An account is already registered with your email address. Please log in.<br>
+Tue, 10 Dec 2019 14:27:45 - [IP: 174.255.64.40] - [User: Guest] - Array
+(
+    [first_name] => Garrett
+    [username] => Damndevil
+    [email] => Damn.Devil.73@gmail.com
+    [password] => Whitedevil0976
+    [interested_in_learning] => music-theory
+    [g-recaptcha-response] => 03AOLTBLRQ8d_ZRL2Lphua3XaRp4J2Q9DNuezvYp9EEEe1Medf-bevEVSaCjoopVcEd9sc-jOwfvFYs0cPdO5u_MFQbAiqlZh_lIpnjPYMT16M47hDAyI8H1-adQRd5Cz9lzvOlI2qJpSyMWzMxxOkHLVxWV1pA44nkxFPa6R7q-DDzsQYsdWGt6XTwZiFQnBcvcPMFlygIyu5cqUCiQ6kVLBwEsoy6KhpJ-aZ6Hz9nFeG-3LnhhTJVtv01j8qYDXbru08lJtQ3htdeLSUsDkPHqxs-2-OYxdHFJhDbFX01WssXtdRD_Rnuxu5Y1fFkfnMJSxoV59hx791slHmmHQFXX4Qy9iMTovs1llwJub93D-njPcmF3-v3SaUWRqt2gjOcyLwabJqtO430Y7Al_E988qKRl469lFdsosNaVvJgQt9YO7r03b7eD4x5PLQPuvoDYd5m2vEheJdvr9NBXZ6zyTd5tnEHfcLojqUjfCMIoi8MQVM-xgfDPhxLe2U-TtRpegnQjm2snKTReRv0Gqp6I4XmY-UVFEvoE4a25HKtSTHrmDaaTWXKN4
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /my-account/
+    [register] => Register
+)
+
+Tue, 10 Dec 2019 15:54:30 - [IP: 46.85.122.76] - [User: Guest] - <br>Woocommerce notice: <strong>ERROR</strong>: The username or password you entered is incorrect. <a href="https://daviesguitars.io/my-account/lost-password/" title="Password Lost and Found">Lost your password</a>?<br>
+Tue, 10 Dec 2019 17:35:16 - [IP: 107.77.193.142] - [User: Guest] - Array
+(
+    [first_name] => Patrick 
+    [username] => Patrick414
+    [email] => plalonde@foriauto.com
+    [password] => Andrea420
+    [interested_in_learning] => music-theory
+    [g-recaptcha-response] => 03AOLTBLQCXpTAkQUJGJgcPy3de9FvNsLJU_GWWKOPVGMRuEa_IxlMJB9Hyr-X5bKCMIXSMzoGiZ1u5SqBJgnmBoW8bF0DTY3wmu6EHPTiEIsNxmk-YhZ5AIYoPjNg18pkhsAqCXI7prnCXolMrawvbhFBPPbcnw4Fqq9XzEfD5QNBq4Nwhf6g7f1hVs1_J-gHMlgfGRuHLUvMLKI5X93aZJEBgspQa_ezuN7mzI1DzruKwX6YPaCsiDgM19QkzeMxCfv5yCDepCLZKJl8Vnc5HG2U8I9Hnsy-6XL7kTd8GKpAmNUmZKu8_vH6xI0hspTX6Y8A8WcHf5Y8lsKCNdeNnACPXiay9qCdxz1ejczCXjyYlCoAWUwxVsl0O4_kRCCHv5N_pAo2NmoMsbNldcgjCpcbPSoHoiNqFSNRK27Mjiv8GQpJsshP-T77gXzZCORBrKVcuc42m8X-6wt-k12PDTGvMuDFw20geD8Zz7IXFgl4l4BobIHw7ANVQ1pYwMNIKtFLJ93zL2BKyMQfy_vEQibp_VkvMjzupWETw7C8WgocxzVhgaCHAYpxY_-dFuR6gcVXLDK5hCyQ
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Tue, 10 Dec 2019 18:36:07 - [IP: 207.46.13.200] - [User: Guest] - term: double-impact-drums
+Tue, 10 Dec 2019 19:47:11 - [IP: 40.77.167.62] - [User: Guest] - term: overloud
+Tue, 10 Dec 2019 20:56:58 - [IP: 157.55.39.169] - [User: Guest] - term: tonecrate
+Tue, 10 Dec 2019 21:36:11 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Tue, 10 Dec 2019 22:15:18 - [IP: 174.253.84.90] - [User: Guest] - Array
+(
+    [first_name] => Dave
+    [username] => Dave38
+    [email] => davidhiatt38@yahoo.com
+    [password] => apple88888
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLRMZdEN7XEtaDHHwABwRkICXtcM0sY8malXwH8_CO0fIPXWhjBZTYgNmoWwK-YnM0PZNjNduHuRGem-scgWoXTdGcl-b9sAuqvGT_toDVu4Lwy3uOE96cM43xvUtfkzWsnutzn5GV6Nm2bhqv3UxZ0WDhliL7UwFhysliTdpE4JqDM7JRZPnFtP_9TE7Azdpg3rudO0Z6-JL2EihCOYb-xSip045DQKp-apkpCdZ-b9fevvyW3FEdP7666dosfk54U4Z22_5ui46MucXMY3IVcnCk4YI7jwlnKmJT62RSZtEepOvAqlcIcmIo9_NX7jow_jDYIY6ZJvFly0WBTKQ_sHx4qr86kjN1NLoQYxdDoZaBty3ZgiHb_mJ7rXSRFwYxA_LfqXVpDHRGkEa9ixUaGukQTtvg2l27nZbRmJc1qeANowkbirqR-b37X2AFjiniipOXODIzO_QJe34cCKdWFQuMZd0oXLNS_HRjxlSIwFDNku_2camSAkPT5FHcN4u8auNxQXRFuLT04wKhwoEgVR_TmxdidbrS9PAh3pTjrjPPxSw0g
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Tue, 10 Dec 2019 22:17:13 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Tue, 10 Dec 2019 22:18:27 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Tue, 10 Dec 2019 22:26:02 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Tue, 10 Dec 2019 22:37:51 - [IP: 47.55.134.36] - [User: Guest] - Array
+(
+    [first_name] => Alex
+    [username] => Botfeute
+    [email] => hocksell@hotmail.com
+    [password] => Markov79
+    [interested_in_learning] => writing
+    [g-recaptcha-response] => 03AOLTBLTsvthBGe25vYIlYQiZevjgzhtCodnX_o-_vi2Yil_nffBkBOC30Un8K6BkbSiSdOqPrD_zgIE8MjKzdXkG5q75pb8OkVGdmr2dDFsm7zByGx0gxoukTrk-gBL8DP-uymyGc_rsyDRFh1qNeKXUsb4Y4kTglouC0xxvBYJAaa5rT47IYs90YB4PUjs5WFDXpWZ9FoF9gyUONomb4KrJtlp8Cb6LIZRYvRrLP63QQRbJFMFisv6gJAApE0ilH_nRwKnvhI90mtNlmZoEipzfWeaLBV8rJMVxjev_5Hos_1UOXKLODeMMWXOr9q_UIA_Mln59PNkJsMTVLT45OR2UJ44RtoraCQVGMfSD-um2jNkQNVcnkRGjwmjfh4XPBSFBaBE720dW8N2fXUWQR_hqmo2dyaFyz6_oS5AdCQjic86YuCqjiNFwQYDpdL3bxekohVfKwDtNpwhLfI0g2Rluw20a1-H-tFZ7A32eWXOoHEj8q91paGanR8_s9LvvvvIv2HLlf6Ea_X-EKBu_Za9biWFydoRoTVPTo0gD-x20olwFMvxeF7I
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Tue, 10 Dec 2019 22:40:50 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Tue, 10 Dec 2019 23:15:18 - [IP: 172.58.155.231] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please solve Captcha correctly<br>
+Tue, 10 Dec 2019 23:16:13 - [IP: 172.58.155.96] - [User: Guest] - Array
+(
+    [first_name] => Markus
+    [username] => Prime Minister Sinister
+    [email] => phoenixphantom6306@gmail.com
+    [password] => Immortal1
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLS3O1578IuO5-76t4ZmrLS8h41ida3gZxfabvl9_Lvs0gt6rh1jxt6gY9TASpW_M_5C6XZAOd-T40yhNcRvWMzMAa61UGBURMCcCLyKI_uYO2y1iYtiBQy9dmXq7Rvft6YTn6mYyGvuqXWA6HQrQVRXSY33tacechCzrJH0r4Kp4HNG5T7wU43T-SsKZvFGPOrsrP-fz8wwuHnbKwFdIs5OMCulqVQXsxKTV-XbyUmq3Q02DAOkfQIKJKk_N-IB4NUAYVTVefYluz0aFcndCGuBWSY0OSLfkvDigwEMIYarhE2zBZ4kC8SU0SvhdCBBL4xtev7LL98_QQGQW7TRVaFERCclaOnZHukQcUIA_aj8tmgSkaWZWCrM-mJcjHHU6oDzQikI2uxi7mpIc0jlsnMHMX2Xnzb1ReaZI4Df_dFl5m0i6nqAb9QGTDYG3ET8ceDknzH6VHGgWOOKd--BKadQo0Kc0Ce9sn95ovKZYy2tmTCPkmO1wX2mPY7o0sxN_rsApUKNwrhjwT9l3y0UN1C6Ykp-pkU-89qFhcklt2YkZ1wdQn9_iQtU7XChfc1OccuKtfoxQVvYth2Paic5m0wsUjMfwg
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Wed, 11 Dec 2019 00:34:05 - [IP: 74.132.204.176] - [User: Guest] - Array
+(
+    [first_name] => Scott 
+    [username] => Scott110
+    [email] => nubs217@gmail.com
+    [password] => hopemarie110
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLQKZDKE7CjK6vQ4u603WToKMHN3KStAPqDPw4qtKMrASFIgA7ppz4gd8-QScHFaFsCtBzlCxdffy4JWnnC2hk_oPbbqss2CIpF60n3Dh4CCvcvosN-Iju1duR4Xa0MLjpXdGf_gmPDl7jsCQno8H35VR_B2PBoTfPp7_sfHSQoMiShgT6HwYirs5RlJ-oMu4tokePBA0KkoVVP2_FUQfHYi30y4iVvnwuj6XTm1_J-dVt_a72r3r3uaEdJA5VC8wM5H4BCjfw607C40aa2AXEg6QEFe0LsGzkoIJYDCe386L4eD_cFxA6K8ixhA0ocsismGlKY2Pyr89xe7IOKVn_g6JQYZU5rZze8fAUqwLNS51KxJ1bY-9D8L1Xn6yUEG6H_cTmewaD8lqfIuxQRWpxxSblpGkiTuOxxYpBB-gz4qTL4SpP8PDvGGNi3OEJe2iweBQW3r_6wxWr6bvydPFU7TL46POBFNZM851_MS1gYfsd1n8Q1SgbuSTf06W8ZSOFirAmWDxkOpnAWNtOoY78XOrdhNt_QaA3oV8lbGd-nh0YWdq7TCjNzW2EJV5Hy_shXOBCg067qBVoFveFfXOkgMpFUMpQ
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Wed, 11 Dec 2019 03:16:10 - [IP: 166.216.159.132] - [User: Guest] - Array
+(
+    [first_name] => Timothy
+    [username] => Tim1967
+    [email] => thamilton316@gmail.com
+    [password] => tbh62267
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLTizSv0Sr7tjcipDd0gPLLLufQ6Yny2tTSGbzv_q5SfvO6BpbnyPwReBOrFxZTiOHEUMGH87Y487EEqcDgnplcOlrt5d30m5VsYaQIBSB-xmJXCp1-tTs0pAggypGXiW_cK-8v4zB9EXcAbHODWypFRqG9Grl5BRMSBz9rzyQ7RFPr8pI0HbN9jf38UQwxBUdz_P5KZ6BVo3AnIyBfu1Qlv-mie-8pjJTEOTn0NGTi8G3Pf1UrSw1mYhSuKijTATCWb3UgdthWC1lyG7GhkKK7xjw0bz3c_MSoeNg16KzC3kh3XkTuZBgcHjl3PUsYoW_RDVy_YNY7kCxwbJ6nDOg3wh3OWhuQESxsdUr18Dwz0_uVNaE4ylyMvMkChfl8JUIQLJwwYXabwOHQKPjPsMW4m9NcM3nAux-I9T5BGh0NwQxxjYUjjr4xii20wC5-xLIpugK4ReMHiPcAqwavCwAw-_woXO8p0VeuGA0gOX5a4TTEX449g1z7b7HyE40ItAnSnOU1iw0MeTHVkAk8Y6AdC81tfvTNl6IKNdX-O3sirHHikkJ4
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Wed, 11 Dec 2019 03:29:30 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Wed, 11 Dec 2019 03:29:55 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Wed, 11 Dec 2019 04:03:53 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Wed, 11 Dec 2019 04:05:07 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Wed, 11 Dec 2019 04:07:24 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Wed, 11 Dec 2019 04:09:21 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Wed, 11 Dec 2019 04:14:03 - [IP: 54.36.148.30] - [User: Guest] - term: heeb
+Wed, 11 Dec 2019 04:19:17 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Wed, 11 Dec 2019 04:22:16 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Wed, 11 Dec 2019 04:24:10 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Wed, 11 Dec 2019 04:26:11 - [IP: 122.199.61.253] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> An account is already registered with your email address. Please log in.<br>
+Wed, 11 Dec 2019 04:27:24 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Wed, 11 Dec 2019 04:30:30 - [IP: 122.199.61.253] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> An account is already registered with your email address. Please log in.<br>
+Wed, 11 Dec 2019 04:32:12 - [IP: 122.199.61.253] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> An account is already registered with your email address. Please log in.<br>
+Wed, 11 Dec 2019 04:32:23 - [IP: 122.199.61.253] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> An account is already registered with your email address. Please log in.<br>
+Wed, 11 Dec 2019 04:32:57 - [IP: 122.199.61.253] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> An account is already registered with your email address. Please log in.<br>
+Wed, 11 Dec 2019 04:33:13 - [IP: 122.199.61.253] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please provide a valid email address.<br>
+Wed, 11 Dec 2019 04:38:28 - [IP: 122.199.61.253] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please provide a valid email address.<br>
+Wed, 11 Dec 2019 04:41:01 - [IP: 122.199.61.253] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please provide a valid email address.<br>
+Wed, 11 Dec 2019 04:47:49 - [IP: 122.199.61.253] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please provide a valid email address.<br>
+Wed, 11 Dec 2019 04:51:45 - [IP: 122.199.61.253] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please provide a valid email address.<br>
+Wed, 11 Dec 2019 04:57:53 - [IP: 122.199.61.253] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please provide a valid email address.<br>
+Wed, 11 Dec 2019 04:58:17 - [IP: 122.199.61.253] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please provide a valid email address.<br>
+Wed, 11 Dec 2019 04:58:53 - [IP: 122.199.61.253] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please provide a valid email address.<br>
+Wed, 11 Dec 2019 04:59:08 - [IP: 122.199.61.253] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please provide a valid email address.<br>
+Wed, 11 Dec 2019 04:59:23 - [IP: 122.199.61.253] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please provide a valid email address.<br>
+Wed, 11 Dec 2019 05:00:01 - [IP: 122.199.61.253] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please provide a valid email address.<br>
+Wed, 11 Dec 2019 05:00:45 - [IP: 122.199.61.253] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please provide a valid email address.<br>
+Wed, 11 Dec 2019 05:01:15 - [IP: 122.199.61.253] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please provide a valid email address.<br>
+Wed, 11 Dec 2019 05:32:14 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Wed, 11 Dec 2019 05:47:48 - [IP: 122.199.61.253] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please provide a valid email address.<br>
+Wed, 11 Dec 2019 05:54:14 - [IP: 122.199.61.253] - [User: Guest] - 
+Wed, 11 Dec 2019 05:59:16 - [IP: 122.199.61.253] - [User: Guest] - Printing post data: 
+Wed, 11 Dec 2019 05:59:16 - [IP: 122.199.61.253] - [User: Guest] - Printing URL: /become-guitar-god/confirm/
+Wed, 11 Dec 2019 06:59:07 - [IP: 184.151.230.24] - [User: Guest] - Array
+(
+    [first_name] => Sean
+    [username] => Seanman
+    [email] => seanman440@gmail.com
+    [password] => stacked
+    [g-recaptcha-response] => 03AOLTBLQ9KGq37TWivdfZCc6J-74hc2GUw6-q29E7rSKvtU7tKhOZZzpdpwGyYVif-jr5vBYcZYaKKxCTfxSc4e4pQbbDmKZRrphmy0xeOLfcOiFOujaknaMr-TQdJACZ23yvQ44JMQysPfbyoFEHOgyysW1Ym0Ezo-zyfcPAsMOP0reKWcAwj50SUgZt6sGcQl2Xw7dxABoLllQOoV48bd2Z-gJKpdB9xIfVORdKorJJbOaXlNb7BrIEV8TiNrV5MMhbVGuCJbw4LSaFKhl5TbS5Qx7nHRtzDfMo8HBKWeCqEZDDcwOa5l1UxfcdXbx3jzTFBeLmoD1nzaUJVV3MdtLL29icB-uYcIcAEsZuam-Ljeeu4MppJ-Y5aEwiE5wWYc_aMv6LCl3RgqRdqiOgvxuTTI9pSinYeuVyjlUroXHbejPI1jHvGRyco_C1bCFKYhxPWRiN4tV7dZUdqKmQLtFoEPVzagA6ON5rM9Rw807ajL-DimJIak9sqMA18hE2i1j-Q8Xy7JF-uwkYQniMgve3cRoSh7oXbxbm4tZZkK9Kty24mD9SmuI
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Wed, 11 Dec 2019 09:08:57 - [IP: 122.199.61.253] - [User: christopher] - <br>Woocommerce notice: Account details changed successfully.<br>
+Wed, 11 Dec 2019 11:25:53 - [IP: 207.46.13.5] - [User: Guest] - term: waves
+Wed, 11 Dec 2019 11:32:35 - [IP: 54.36.148.195] - [User: Guest] - term: musical-entropy
+Wed, 11 Dec 2019 11:43:48 - [IP: 54.36.149.87] - [User: Guest] - term: native-instruments
+Wed, 11 Dec 2019 12:45:44 - [IP: 54.36.148.212] - [User: Guest] - term: ml-sound-lab
+Wed, 11 Dec 2019 13:52:24 - [IP: 192.158.221.18] - [User: Guest] - Array
+(
+    [first_name] => Paul 
+    [username] => Tklocksmith 
+    [email] => paulnoll15@gmail.com
+    [password] => 1Hating!
+    [interested_in_learning] => writing
+    [g-recaptcha-response] => 03AOLTBLQPqhUpmf-xOfi5g0BuwOKUAtMNoBdtAySUKsCgjC9NJ_Wr3T02Pk41bkMQSFHM1SOlQkB6h6gecDeVpFVjQJjJWI7rqV-vH9u60e9cy0U4a9KKzRKevmgIUAvJxta-JaDTQaNxcsgaYSmErGbTimBCSvzwiP1YSzxDT6WynYMh9pGFOaBVlWpthzcXCsnQTp2SNFadUyvGL3F_rSEbgTTQ6D_w-PigbFx1tKBKocNm9OpbdtuGe_AtjmKZN-y06DbTYZdTt-OY_tmufa0HgI3dj3IFKyJi8kZBBjEsQ1VrU6WHJ-Qac9vgEHeTaEfi-MNloWX6hedbOfpXd40VZBLlFl6onKQ2mCUl2-qkXIT7_VRgi-WwDsuLigl_5vuQpdkACo_59orCwneoZkFAEkg-oCLjGMdZw-z3P_CAFmbM2MX5G9Q6apKMZtxVYVBO2QqCCRKK7FRbdOvSuJvyeN2YASEqrl7RcqXBH27Rtf3lJCMIi6k-8zQoi9seGz1fdtEAJpAbGmmoCBPN5LwpTjnPm7NDzNlfwFw9DTOTaqSVG3nzKgk
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Wed, 11 Dec 2019 15:09:40 - [IP: 72.186.44.40] - [User: Guest] - Array
+(
+    [first_name] => Cody
+    [username] => AkatsukiTonto
+    [email] => witheredaway5@gmail.com
+    [password] => Roberts1
+    [interested_in_learning] => music-theory
+    [g-recaptcha-response] => 03AOLTBLRSXnTcAgTvE3rLJS7KjfNnsCPWZoFIVywNW0-HbNZCQnzsSQ2vv9qKusj5wDYlC8mnK93Y_pSTjvr0TczHwC9gtgw4QFreYZ_bDG8HOrlVRlAQuhL6Hc3nNqbQ9SHerARdrL84JODJSza8g6Y02sSkXQcQR_uW0DaWjkCW-9O1Dv8Z-PdP8kz5Jtb_QBlkZqb14qLLNfogo1QNepM8QTOetYVbB0Xoi6N6CG3PFwgoDgwFcjUQg2xuq-ymka2lOcxC1kO38hRK53ykjyk4CpXu1qai0YD45tI0UTtwySE3sh-0pFXtPyHp3XPeNzkouOQx1KltCDfhexbe3Dp2cqmEY77bmlzLgKIKV5DdNi9pPr8rkFwYijLY6HUEsJsVei9Lf5ZPUuihwip_hkNggZ1-HtG842mWFeE1vlTtsHFIqLVmA6c5iBOtY08Aij3Im4tStJzB6vu8a7w7g-oTYAXd8zxVQaHaxov51WM7tMqLv1_B3I3dQFrUn1ELiN3Kozooh_8RPIfHGbBBe6wa8DHslTpV3fpdYINjMoDPHOEd8p8pXBv5wKfyPwRMtbPlWRZ3V_LrFALQSZWrzVTClBVHUuiC96ov-c2uRR-f2B_8mdwtaEk
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Wed, 11 Dec 2019 18:08:29 - [IP: 174.223.133.128] - [User: Guest] - Array
+(
+    [first_name] => Chris
+    [username] => SuperC
+    [email] => cglenn282@gmail.com
+    [password] => Cg11271985
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLS_MYscTAbwyr43P5DU6lWb3MjZLlD6Ky-WOnToyotE6kbvT7sMHzT9wRaID2dcviWNBh22OHOD5j7OefY5HZzI1JQqhmQtubO5dqWCBEo8VtD92j5n34cQLmb5-KUpdF3SpHMLeScbtObuYmwGU16MGzwkMo0AoSZmwL9wfGB8qqSeGyHFycJY04VQ6_Dd-xZECJA_59j3oIB1lSDj0oOsk9_QX8ehaG_GRDvWEAl0e2PlfmVspgmnFGokQ9foyq5OrGSDLo7FwA3y9M6yoo0E4GKeDcDXy0Ubbmk9s82NXvIlNtW37VnyHVKd4mHLOuGD5CQqf7yU5aGUFa34knbF8eUAV2LF_mMmZ_3toic2_RHrDyhau_Ho_BkEYpY4XfAICngm8oBre2Z6f8qPW9X1-JCeUjEJAVYyuC7uQq_NpnhuncyoWSaq3gn7tbzm83DSSoQR5Yt97Cq0j-lxVmc-DoHmh6C-JRfmjsy8LYhX3V2bC6u23tQUXpph2sKlS-C5WinlRwazbFilLDWte_HlRFErQQG0WM5MSjnTDCxINFw6PpsYiGJGnf3I33CcS8h_kayUw74FMg_vjUwzFGkzEnRZ5QRxIvMcerKrZXkSo8Bv8E8
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Wed, 11 Dec 2019 19:08:43 - [IP: 157.55.39.187] - [User: Guest] - term: sb-tones
+Wed, 11 Dec 2019 19:27:22 - [IP: 207.46.13.54] - [User: Guest] - term: catharsis
+Wed, 11 Dec 2019 19:34:11 - [IP: 74.134.162.175] - [User: Guest] - Array
+(
+    [first_name] => Salazzar
+    [username] => SalazzarMI6
+    [email] => salmughal001@gmail.com
+    [password] => Iceman19
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLT8coPZHWWYzF0hiiJQxhh8c4YCfkIArkFrZ-j5FcgQHhWJpJGxUYMH4XGfypFp7Wyz-Kj-HUblAP3iePcCp00CGHp4M4IV7iBClL8Osx1tfyUAMnFiefpekWPSqum2Hfy0mcTCepJuoU2y5iWo5eoRA0buNXnjIkDFvGrctY8YwBKuhz-AiLVsdG6gTY4LGuvaox-9GHbZa1bB18EYM7eFfyPAqlEirCIHTgaWuYQA6mHvbMuu0fdXGgo0QL018fcFwbr7opF_cq33HuMrLWYtixIpn_gTVvUbHgAysG9dTP3cbSwdItF0j4N7HJGZ7JkvryOnARijoVt0twKqvu_jzy6Rpsms01yPbkHzhlGFgBluU3NUSaqwp9Clguu5bA2zeHbwe_P-f_b8UhwvTeE0pcojrw2TcVlj6xa3GXJkyNvEBULsl8VLSL8NK9Lq9XTMT2JBFQP_7NpL9iOp7jSb49hvnJLlGezbaptpdcEOrXgcmFSpUGMcWef0s02a4P2tJKHEcgGkRaFx_RGO_nd2ldGTT9_TLtTkv20YA-zW4o9FqZI3I0PavadMJur1Vz-bC7UrkbeH-yAZ0r1JvV36nSPaA1xA9a2Jqa--LGA-gBXtheA
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Wed, 11 Dec 2019 20:23:59 - [IP: 68.151.64.61] - [User: Guest] - Array
+(
+    [first_name] => Bryan
+    [username] => 2015camaro
+    [email] => b62fischer@gmail.Com
+    [password] => camari2015
+    [interested_in_learning] => music-theory
+    [g-recaptcha-response] => 03AOLTBLTvfbu3Q8PKqQ8a1CxpiWlGp3qQIV5ifZxFdwijGonhCwDCkmV9F2T0YqtX03sAuhqXPCguLvT7adJTi4eFt47KlhBfIhgQzOLZ4zVJ2-k_JHYaAP37XqeT74ow6X8RRscNTMalACA7_Nlb1w0kdak5ORvVCZYTLCs9iTsxBW_QgJcmu3TuqButhSWxQqfEdXfAB-ahXZBF2booL-nHLX1B493psmG4Fdz3sxFJdiJ2qlfMkYGFTLKpVa6oeg-OWMPOtBwsjH6SLiqVMkrh7EvfRbJVbL6rpVSiTj9M351lCZZuUJXEo-ow9LRs0iDfYdJi0Yrc4RY3GAHlKOL4VNPeKqICc4v0TGEss1JY04ZOxs8OfW7Q2_b67M1MdX612-3UE8d1x1lWDubsEsOcYbBWXQTmgKZ_E_Y6TvowRia9GHnOGkvhqKzK8PAa6dPniFWsYzFcEaPtOEmqtmYzjNA3mEaOy3vSywKWfNFLKYRuctpklsqU1alvjR18soirqVIWOebGJbuYN2v13JjQ9nOF7JqO0KHo5HFW7tSlOV3-q8GferKAlCV2R_uMbITXJ9a1-hAI3JOj7ccKPmlQu4kA2XG3BA
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29&fbclid=IwAR2QC9cRHXXRb8lA_3MLCIZHYTINXEP4_1-h56jsNSHlcLU5rqunlg9LsmU
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Wed, 11 Dec 2019 21:27:36 - [IP: 73.3.163.152] - [User: Guest] - Array
+(
+    [first_name] => Thom
+    [username] => captthom
+    [email] => captthom1015@yahoo.com
+    [password] => klaus1015
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLQPavoxvsMHQOAFokqmqptBCiAyX1ObbWEyTR_ni9dAhcwgYKSPC1tAfpCpgeK3xyz0fIZd0-c4v0T5I1_ydgOT5Vz5nOknlCNrFz4vgGbJ7fjG-g2Lp_SoXdljrdhDxo1impaQYqHoncCuS-lTk27anJMN1yDoP7tZAw4q_qHwK0NFv6qHj7KKhr0R947aMixr1-AqPU_iWZ5l-YTh2nDxG52vl-gseEgeMtG5nulS3rZvuGeRc3qWTlTi8sbd4preLXAflqfdMbUUOwjUrESCAjP9n5E3NdbyaYBB9IaO8CjCv5aNsQTQqH3TcYse2mQe_M9vXReWle0WV3HzdyPhCkJaxJX8KkoTXoWGs8Gibvh77EBc6JR4MgNX8ruuVK5I8E1VJd-tnzSEL72B_DsR8z3v95lxgqATPtIGemxFVEsjJ28AWjmjQDteDR_kGUNdtDSFObftZscG-csDe1KmGgHz6g1xKRSk2kVtBXZa8T0-YKsQAW_JQeYSU3-TJ8_r8AGWDFS3aPvrbexGhfsWCdp-BUmReJjsqWvZyi3DbKqLF-N6Au8GTV5wpWDktxCnOLj7eOg6gwb_dqN-0nfeSjDJqX8yUgrzowBk45IyTmXejn0
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Wed, 11 Dec 2019 23:47:44 - [IP: 216.154.16.98] - [User: Guest] - Array
+(
+    [first_name] => Paul
+    [username] => pwamowin
+    [email] => pwamowin@gmail.com
+    [password] => pwam490812!
+    [g-recaptcha-response] => 03AOLTBLQEhkZondY4R9U14Q4kDYK6IrVDvvmUmBkVFhAEu414JrKQ82T6LA_vREzuyPUwj7-skb7W50rF22ZUgAfaOYnpAdUd4JKCa9BEwI1s7poLE4gkiRTBaD_PE2nkx1_6pxNGLtutbjXNdG38ukQF5e9apwHqZpdpekFcuph2cCqrhcE5QXVP1W3ch7j67eSRkaZMCIWL5G1M1dbYuy59kQasxiYj7ya0_I-e0_WWSjIr6BOjQlPbk5796YzeDrEG2IgkB7e5DnEGXbCuRWmqEF0kW15wFJ4XZQbZpDCFUpku7bTUkaCvI0-YWOb2w-NretvIZbIJoewmBXuNjxZ8H187NarC8LPizyt53Eog6b6Z-jmPlrDno6aDeTsGMxT5xnhwFbblsfJmYowVOKZUWmnh6oq9b5T4-jk2LCM68lXK1f9QxlcVPluT_OjjiGZgK43bsIjhBUBcpiEmLHdWn3DRZUuHabvgpQN-SkE9zZFGEfgNN_zghKqeSyWmEMmkG5_gqYPkKXEVHb8eRnpwrRHujyUqTQ
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Desktop_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29&fbclid=IwAR1PkzdvfHQl3qHLB8yrZpM0Imk3ch3EygaTiZmmx235rQb_cVwmVoJlt-o
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Wed, 11 Dec 2019 23:51:49 - [IP: 65.30.159.219] - [User: Guest] - Array
+(
+    [first_name] => Daniel 
+    [username] => syntaxkills
+    [email] => syntaxkills@gmail.com
+    [password] => OblivionST2680
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLSMpOMdpmdY_7eXKdX3oNtUPPQNo3oROTVKKA1SSW_x4cAY6gteTnnbbdbHDRlh0703M35TG3ax_VlzniMrt_LM27tsFzneVZDXOoHFUMeWz0G5wbZJrqRLjObiy-1j2GRhDAkLtRBL5jK15M7OvqxnTezWGE7k6KRS3WEl1gTc7o5xfN-vtqAayFR9nIauoRJFyeDOosjeRV885WfvSRnz8rqeFb1tUmCM03B7oRXc8Dr7jh_zi1srPcBgrlVWywKsB_eW4YtFeKMj_y-jwC7Y6vuICUB5luVDQEo8mKRmfT-NFpF0rbSOEOwCfHGSRmQX9f5xw4BNZJMgHLk0mPlNT_5ymhusNoksUEwnQ2xWgckQM4dGmUPL-CeTbFkYJN56VRfbXN7t4VhawN-8VSMvK5lwc8FdDKiUEFNzhmvxUs7uMUlkkWNl8a2UWM-csOLyQzJEBpFWPfLtb3B0YO-ClHbS3UrKWzMms7qcjubd_fkACJbOLO22HxArnM-jK0QZUFUjkd7rC2RhE3qX3j8ARHOITYXTwY_IR2MWfIgpqodkoW1bQP1kxjWlwVMaANcUqzTy-T5_18epoeIK3WdNAHwg5k5f0KMWcQqUVzwety4YyqI
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Thu, 12 Dec 2019 00:07:37 - [IP: 97.92.226.113] - [User: Guest] - Array
+(
+    [first_name] => Dave
+    [username] => s1xstr1ngsamurai
+    [email] => sythlord66@icloud.com
+    [password] => Blues2cup
+    [interested_in_learning] => writing
+    [g-recaptcha-response] => 03AOLTBLSoImJeXXduy1SabPKor2VOFwkO-e3OQ8l5jocCrt8_VnpvK8LTPQLYSmihg9zInnf9lrVI5J4Z8ER4Q436uU0A-prj2GRZBaT2ZCI9rN69oi7Yz8AEsrC8mKJv4OlQMYvyFQVaG4Akj1AesL1pVlhxzVvGO2mIEw9Et6zupmEeqifiRpIhrF71VyeZzxsLfMZypZAdEyy5FsEq1FnSr8GUXrfm7_RP0Vh5vP98EIv1PFspjKKyEzMpaW9yj_Mgt_HlqtSoDDE8zLcgi5dXd22x2l-jSP3vzFNWusIemjj_3okAvJva4Ax9lvVxpES0wODE72CHrUv0HJ7vBQ_n5PbxP9oO3tpbQzWACjbf8WRz6n05AxofYnWLIeX5h3EbnjDKYk8VRdJW7h4e8e8wE2klADQQrAGhl7G0x-CCEDSzWyVqo2HQejfJI3k1JOpsc1aHoOjX6JHYWW0VnwPBt012cM7iQHnm17-aqh2ZoM-9sM4hADAa5WN-CxVtAiMtI7Ia7kCwhZoCkhq7ZVaY3f1RDTq8UE_mWf_I4sjnzYAgO3NKCYY
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Thu, 12 Dec 2019 00:09:52 - [IP: 97.92.226.113] - [User: s1xstr1ngsamurai] - <br>Woocommerce notice: Account details changed successfully.<br>
+Thu, 12 Dec 2019 01:43:35 - [IP: 76.101.215.96] - [User: Guest] - Array
+(
+    [first_name] => Bill
+    [username] => DSM
+    [email] => dsmgrp06@gmail.com
+    [password] => April112009*
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLTS-I2JXjkLFAxVHrW8wI6GIfk0SP13U-TML9Ungyofu4KAu_d2uZq6MnGG3sOg6UQoiMF--GSeiClA3yHKEDhIL1tXAnrDHednfFWxHso0jxwJIr6Rj1mpu9sazxMYprjaBUYvngFw56C1m7jUJ9Kw8ZeeLcipLK5T34ke8LTd9HvIbwhCOXvMoeTFKD1di4yD7mXHjzCn-PjWnBEbkolbjhf67-NJX3idkyyCQSQPLYEmApGl-WmlNAItdd0zjRfMzDrdWvyYAybMHKd3WpvdMRR1-nYjFjQ8rKZkOC8du29SlwX5lLJqK-VfJtD_DSAIep4BcWVlNNsDbI-cNLm-lO8wxzACXBlsY-G6b9ZKsIl5Ya6VDeRQlz-9DfOWXRE5IO1z1-ioDhptjGJRCXRX9GMy9eMPsZQaky73pcT28DDZXK74ZefVTQ1Tgjxu9c9iwa2kVeFxSIk1EFHv7j1FcW0zEgV1Zvh_zkT0OHHiw19UR1A0MrKCDFxNepA3iqcwwPd6J0c2MrFGGddQNIUHaQNkDxcWLynnEsKFkqkynLGuvXHPGBJMLwI69eHC6HmQRing
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /metal-guitar-exercises/
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Thu, 12 Dec 2019 01:53:51 - [IP: 54.36.149.84] - [User: Guest] - term: ronald-passion
+Thu, 12 Dec 2019 03:36:02 - [IP: 5.188.210.242] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please solve Captcha correctly<br>
+Thu, 12 Dec 2019 03:36:06 - [IP: 5.188.210.242] - [User: Guest] - <br>Woocommerce notice: <strong>ERROR</strong>: The username or password you entered is incorrect. <a href="https://daviesguitars.io/my-account/lost-password/" title="Password Lost and Found">Lost your password</a>?<br>
+Thu, 12 Dec 2019 04:23:47 - [IP: 66.183.228.233] - [User: Guest] - Array
+(
+    [first_name] => Kris
+    [username] => MetalliKritter
+    [email] => kristoffershaw80@gmail.com
+    [password] => WhatsMyPassword1980
+    [interested_in_learning] => writing
+    [g-recaptcha-response] => 03AOLTBLQKxcn4PhQI-4FwrZANrroNG8PS7Ql2dwSsR9sS3CkRdCv5h8AHcBw23MWUPTItf6X6kvzwX1tSt1TDZhlLK8o64IDlEm1zW_tfjwvGWUjYZVnyeB2X5a-Pjl0XQo7oL3vEpWCOmHAC5Vx2H-PGCMKYOl-G4iBvVh0WPxaBT6pe4PPXrrsDhAr7NFhH07Ujn9BPCGc3dEEVDb-Af9kaWYsQbV2TM23uLaA_vNIHJwtPIQ8xqX2-t6L-wUnzCOhi-yhoRxnB-wpU4n86kZPDGO5KUPB5g-giajZgRqoHPg_xOu8CGVPBW2XWanv_tP8hacRERSnujUZbUoaEwurY5__pQd4zBuaBg0yVM3UUx0JxVLwlGemIslQIXur3e1SfAejkzHIanUJoZPJW01KnXBmQY-czxZK1JhS1azFshtJvShN9HqE7fC4VIHegXzHt51fQhUsKnPQrLRX7ep2YqZ2Mg7N7sXSoWktrEuq_zLcVr9zIRzrKQWcgwj0eNRHJ8CwmqGKhNqfrOpxLqfm9txcK02mS_ZQTEvq0LRuBx9AyxCanY2_qaawK2OhdBIH1wyMBN4d5om2KPrvgO-u3AjEYAQO8DA
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Thu, 12 Dec 2019 04:35:59 - [IP: 66.183.228.233] - [User: metallikritter] - <br>Woocommerce notice: Account details changed successfully.<br>
+Thu, 12 Dec 2019 05:51:07 - [IP: 98.193.65.52] - [User: Guest] - Array
+(
+    [first_name] => Jeff 
+    [username] => jeffersonmoylee@gmail.com
+    [email] => jeffersonmoylee@gmail.com
+    [password] => Marytyler59
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLQiwj10VpGcicbitpHVt5SoLLxH8VTckVve1S1VN_zB7dwtJ8HZ_5oPcQRjl6QvfvKdq11Z6K9QVeVUit7Rg6GsY6pZDNNu1BGvTgfSh_e1VufCMtF8c7jYWA6vx8aEGM7XFzCfCKaL1VtcCXisjG6Asd_v428dL2px24tv-ZijPD2mKj2lczq1U4zQdkNyYqpWfPgAfHuUyxnsuD4SLzLyg5hL1ROZYHKd8RE9iYFaez2MxVst9d8wJWPkM_p9w-R2kyP163PTPZ5fWkyLXiPPuG_YnT3hDgkB7wK3hA0n0Fl7ZRYKMYAi-v25DfA_V0CE4ZsXzUPKzdM6r0GX6N47V2voYLD41KjSFd4XU8vpF5K_ktzFIV6SBAddRcg98QD_cjJ9MMND4nxOhe6yCjwxQdsigfxUCgCT7FcUcpIQaDsVvD42my8aZv0EhPlWzN6XXCz1W9jW5zX4Q3AvObpP1-eYz3QtR9PxfQBf_ydqLYwmCK30Og0p4IAS2CubDSyFHiHwUQIcLKvwFdxmXPZdd2UGrTA6pqAM94rXchf3str1z2gHHXg-T5L-MMcb_AVgqW2zCf_Jq6Z9NpJIHi22jU5YC_V8cJDribDOP2lLdHa0-j0
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Thu, 12 Dec 2019 07:14:50 - [IP: 66.249.79.38] - [User: Guest] - term: bte-audio
+Thu, 12 Dec 2019 14:45:15 - [IP: 207.228.78.232] - [User: Guest] - Array
+(
+    [first_name] => Chris
+    [username] => Presley984
+    [email] => presley984@gmail.com
+    [password] => Alfredo984$
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLT8udSPQwsgjTN3JOLareiiKIJyboyboyts6kU76MUDTW_jttq83zcrEbdwyNO16ZiVlxZWRIFCrBDjYyYFoPiWlcPlJJhRfPFSygyR4FBOZ25qMLhI2jwY8Rq1oqxl1T2uk7iVB7BSKJqzioWUJNiSthdM50GfUEn2n-6CaUfQQV7T9lbt-M7rNuNx3qrBvopwd9XsNV1d_0IjKQCNmZLJJvg65mY4RMuB87P_1pt0x3K7xVSsmEWMelK1zxtZ8Qqe-8lYiWte23MrGQ7dumZKlBmLPTqf0lMDSGVJJ9x-zyAhw25VxVpLuZAyqF9dY5bpmPmveekNXd3-LeUug9lUWOTTxLAjJMUXFhVkcZYEep8f0XrrPDNRTkwr6FYe4PxYj8ODIV97whgYJlXOWbcxkf5j15h_CT3-4fnPTWirX9aOwbOCGLLQY2QT2W_Ay7NswSNWjnKd-UewyyvlzRG8S1y-xnOGTwa4SpBv2MMiKfw--R00uhcdNNR8rxAb_5UgeTnfgaG3hvz-HhajxNx8psfOGmguviTXMkMR1lE3NRSJdFDjRbFqQsxRW0YDnAvOgtXF
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Thu, 12 Dec 2019 17:53:06 - [IP: 157.55.39.178] - [User: Guest] - term: analog-obsession
+Thu, 12 Dec 2019 18:59:14 - [IP: 216.208.243.108] - [User: Guest] - Array
+(
+    [first_name] => Craig
+    [username] => CS78CS78
+    [email] => crsooley@gmail.com
+    [password] => Marge111
+    [interested_in_learning] => writing
+    [g-recaptcha-response] => 03AOLTBLQSYpqOPKvHd-UwUeNHqXVmitOpyt-im2y39T46_yOw6MiC3cM4TDh0xUKk7XB2H7Wy_mUUZOG-U1JGXV0FYcoQhp2yEhCKsgunb3yM__hqfZ-tq_Fvs384EdL14x-8fqnZ6nSptJy9w5gFQhndDWbSPqcIxrB-mJ8LaSHUznoRAklefMvP_7IQ-jjQ6SUkzTsxP8BqyuVoCFl7u7aQzBlAAEmforKG5UaDKs4jKzS7-nXrZqBe0Szua4kbUeAcFABVuZO9J5vGVd5Nieb-4lnJJ6RIEpLIrlhb_qgmOYNkZpSjsJpvfiUgqAKD0TI6xtzsNSQT1VyT4r7Nxnpgzh5m1Y_b2569Wqd8dsWqzyOUmcKZDrThF2Gaqoc3Er4zCeTMdk4j3I-gRxWyVPD3IxzlYiVIM7oBBU8dlXDyKtAzMexzViRzWMgKRfTBsUcGgcZUohetOtoKQYloLzXFWxMZrV2OQOsU_DH7scDXG2HdZRCGxa1Oz5LeesULiMt58hNQbfykzb3HXqJIDsCsk4uWD6iCDhigMrr0uifnrIzYm-qACixcf5iiOdPA40EKOdsXQt5dHH9ioI_c5-eWTT-kU6jm3FqR7xhHpnxQ8sThdyWSMqg
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Thu, 12 Dec 2019 20:42:18 - [IP: 172.58.11.112] - [User: Guest] - Array
+(
+    [first_name] => Jeffrey
+    [username] => jeffrey james cottone
+    [email] => jeffreyjamescottone@gmail.com
+    [password] => gibson1969
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLRTWEuoZV3CsUsyhBHR0Oxb96OBZtN4dQ1LEN4Rrzp_pv4Xzq4sYfiWEXxzVGqOrA3LrZdVXuL0src4noOu7gshEUzWbiPFP6Rl3eehBY_yEXvQDqPSNNNh15e7vEWu7jJSwNiofCnLt4fF-8liGFi6sY6CwASeuwCHCdw0OyWoajGFvpqlgMk78KYGGdmIREG9caiKS_W6klHAMiwIHcWsaF1EGZYQbMJFfs-9EI4TV_t44MMSM8ue_ELJ0nCt0iYBO1oY0pMsGv3qSIADA-jj7hYyJRyHiYgDlSiKjd29phcFuY8Qki0mnIieUs5_qEEuri-wHJraYW_J795iUXeLnRFeOVZHV_IhIR2QhgGPvjawKasrmvdPcaJazGlHYHdSweaZu27AW2fGwKiwzYwiPbdhYK4FhHsbsvwaSYiml4abM4WqDxUmvjr5VK7Dhz96IEQ7rk6KRxn6YyDQBSRB7MQOH0Cl_-X2s2xhZmmd6_JSmZ8IdG29U4FuHtuPleKrcJO1lw_qzX_7Jdt6ztXjG1c6SnxI3oqsSOB3zjyjKM1HCIIUIYKxj9rQxy-sQ-ige3Oex14KAMuDLeAQy7RRBnNTkRdBHysj5e9K4eOcluOW4as
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Thu, 12 Dec 2019 20:59:21 - [IP: 207.194.50.44] - [User: Guest] - Array
+(
+    [first_name] => Chris
+    [username] => Acewylde
+    [email] => cpmerke@hotmail.com
+    [password] => bcrich69
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLTq2SUllqm1YWrzH9yJgffLUvnbyg0S5jk1m6UBI-F9v-fHHh3uMjWomA9nnaZ3KDfGhuF5bJJHYYgVxokt16g4LuCntii7PcfFmuyYruR_as_feJBlhBoFCFE534hChqrZcSGtIUKVPS6b6QDvLxd9WnKQgiGPB9J2bXkkv32FBAAhH7rIQ776SlLgOxjrRhfA6Gd3O1eqDM6T993J-CKifLA2Bf98hUyF8-k-k6COE51gNtLQIMbWX1r1B9iuj3yumdc9iM6Cv16o2jthS5U2d2_JFgXNkfHGELsHDy_8F_AIxMOMXJJHX-I19PB3JvCfeqYR1jwfFrP38UK_EL33O_dm6KrYrVwuER-kagPe-yDCAFRxg3M3W_fNyILUwwTXnVgUJt3WOw0sYB51ce4sApg-w2FWfRCM6yvsXb_Qd4c7ikqxtJWWgINwhMPGvs3asAXQLNHmuU7skhsU8AYL_ieo_fOwiSw_0re-rv1dDWxlyJsqzmYLcap9P6csiNq4-qAH98MFBDpyIqksyWczxHmCrw
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29&fbclid=IwAR0fhbO6obudFkPT6QHAI2J4MjFZFsHvr8yIyCO5ZG1LJgYgC7ZR4mFg1U8
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Thu, 12 Dec 2019 21:03:49 - [IP: 207.194.50.44] - [User: acewylde] - <br>Woocommerce notice: Account details changed successfully.<br>
+Thu, 12 Dec 2019 22:12:51 - [IP: 37.9.87.157] - [User: Guest] - term: reampzone
+Thu, 12 Dec 2019 22:28:33 - [IP: 203.45.143.184] - [User: christopher] - Cleared cache on css save
+Thu, 12 Dec 2019 22:43:13 - [IP: 203.45.143.184] - [User: christopher] - Cleared cache on css save
+Thu, 12 Dec 2019 22:44:35 - [IP: 203.45.143.184] - [User: christopher] - Cleared cache on css save
+Thu, 12 Dec 2019 22:45:09 - [IP: 203.45.143.184] - [User: christopher] - Cleared cache on css save
+Thu, 12 Dec 2019 22:45:51 - [IP: 203.45.143.184] - [User: christopher] - Cleared cache on css save
+Thu, 12 Dec 2019 22:55:49 - [IP: 203.45.143.184] - [User: christopher] - Cleared cache on css save
+Thu, 12 Dec 2019 22:57:11 - [IP: 203.45.143.184] - [User: christopher] - Cleared cache on css save
+Thu, 12 Dec 2019 23:50:12 - [IP: 107.242.117.17] - [User: Guest] - Array
+(
+    [first_name] => Tracy Felton
+    [username] => Twogun
+    [email] => rnrwarrior@yahoo.com
+    [password] => bogner2017
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLSOKDaGaEX5RcmKa9nV6-M5CVw0VXbYgDLNWpi1UJnKRONOvsGW4IvM93yFP4douX438iS-n2PJU4Mg_QO9avsszZuXLV1ND_aObKIplAp38QEtPHYJ83k9XjF8j6to4fZSHMdQ0RDAC0XzHUYIF_0A_q4XPrrSOKH0KHitc4xC74tRQWF714ElKQStZyFsnf_Iis0b7acEl38D-MnNmDyVsiz4H-jJhsXps4VzD0UatYsJswvEeQpjkO7d5rYCR7ckw9Iq451Y3hN2AIx3fpXv2TDcPeF6xkK7_WMxhbxLHzdZJfXsD0fNqdTY3jylz4gvS7uie7lcNyL28gqpOXyEQXqIHE96-m3Wm0Q5nXFTxMqy27Hpq376BZWwmNJCq7Kw9Fu5xjnJ3RBxiytTft2VuHuPVgf032iHX2qzVtIwc1aKAXLccTEGn8f4dB3JfDDSYGV283-kYeVm4mtdAN87ZolErYlywd3QdAaTfb5Qx54LM3bNMfxOMUMhVk8BqqNo8erwGIU0Vw32BzYQRtCV8jNgzp8zl4kYDoogs_fiVoHp85I
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Fri, 13 Dec 2019 02:38:58 - [IP: 172.58.203.34] - [User: Guest] - Array
+(
+    [first_name] => Eddy
+    [username] => edd
+    [email] => eddieaguinaga@gmail.com
+    [password] => Ziggy13$
+    [g-recaptcha-response] => 03AOLTBLRqFFDKPRN7P4iqJxsRTkhX5DDBvJhmF-UApiVjGTnbW3PKzg1J46UDir17Yi_iazB18_IAruWtcnENJ2r8eWS90XrH_4VMv6AMyv7RztCuJr9wKHtX0y9z0Ht3OrOm30MzpTbeiD5zuh4zhoAy_TepuHpYzE-XRJFkEzWUrGmtZtHwJirJUOR_0OwjT1bjg27E8Axw4O81bmIqZnIqVRCs_mLtKlX0-HFGFeMiWOA-ZrqMTH5yUdwLYSeEYf1vF15bBkf2Ix0RoskJbENUS9hmg6ruwP9FhmCdF9zJcnEPMkWHMK-uer5nS_nEfwinx6V71wmbqvh4GY8J_nqEiWX4eMkTydpJbku0_MlcQUewpRNdExoBfj2RDPMX4PXJJEL8alSF0Xab2Y5j20x7uSAls5GDibr1adlIHxJwB2xRgBeVbXs5bsf7m3Bpc30FYGBwzgEclpB8fi9P0UGkaYCwtgeVd4r0MkJt3oI8pZL3E2A-UsLjAUPnnr-yUtfNXIEXN6R5E4PehoIAUuLv-3DcBJO2vMM905mWMszBDQGjnpoj9L7lav9XH3yWl7sg58t50IEPRPgQbP5-sd4_jCf-_TY5KK8yjQDTYze3R_nubMOk3c0
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Fri, 13 Dec 2019 03:02:25 - [IP: 203.45.143.184] - [User: christopher] - Cleared cache on css save
+Fri, 13 Dec 2019 03:04:36 - [IP: 203.45.143.184] - [User: christopher] - Cleared cache on css save
+Fri, 13 Dec 2019 04:50:10 - [IP: 174.240.138.55] - [User: Guest] - Array
+(
+    [first_name] => Joshua
+    [username] => Deathnail426
+    [email] => jbcourville@yahoo.com
+    [password] => 440sixpack
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLTPviKn5TdnoZaaJAwVIa4egv-8iFzW6AxKMUJqZhaELp_8sX0lViP9J_hJkDygMPSO4kcZaNaGBuk4-BaVAfaQqjGcYcuK9bzmx64jeznDHhS7YyAerkyeneOj7aga00_7RrhL5XeQwDqawwHGHIvUGQ7cl-d5um6-1Sx3pDPwMwHt28fyIUVfanvWXzUfqoT15zaD1uzvzDs5xwbb7wEvKm1LJqTMjFBWpo6uGxb24hQf5SYsxcevZZQElRaY4ofFr5nkxYqQGLwu0TMSA7CIx5dH9vLY86JeyMH4S91xmyd5XH7O74atkO3_mIyyAsqIBQi8dq4Ho3XTyopo4sFJ6frZ1T3tvEmfav5z4nxJfV4CLUDYNefFWJnjm2DOJcImYuKL8gh1lPuRzkClkAeuh8zq3vDbNEdDfY_JK_g4ClPVsJGsI1MVZ9Sv4YdXcvYaBcTFER8_sxN7kr3PdwgD2FR_IfbN64U8Kudd-4VlbNlGywK9FDAVL2oDHQaa0HorkjfKhUSVMqfjVskdNMgrmqHCme2uqlLlysl7d1gTO0MAWjIV0FgmhcMhurFR5Uu_ErCOeoL_sfYWvjqzKJq3GShhAd1a-gGBjVS8mijOPIhutilLY2wdfDYN_1kNZxdDScwV
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Fri, 13 Dec 2019 05:27:14 - [IP: 108.226.209.101] - [User: Guest] - Array
+(
+    [first_name] => Brent
+    [username] => Brent
+    [email] => zeeklife999@gmail.com
+    [password] => ilovedonna
+    [interested_in_learning] => music-theory
+    [g-recaptcha-response] => 03AOLTBLSpfyB9BXz1EqIiyeYQAaG3n9XecIDE9a8dV9RnsHe4B4R0ZKmFuGDMzMlNIPT_5F9-0fNNARiYPnKbbT23s0kNtmR6lp2hT94JPo7sXFYGlb1BXenpkeZGzypH18jQvkqm0LbaUFZBcbbBL2Vx_cb3fPnfdzs_52kfLw4NM10ft08PUx8Ku13n168CJp-jELYqpvZb60Yh4i960EPhMP5Y5lecULIP1BRbjH0Sawo2_stdxCA7DrUa4bTCUdMYqUyD5yPdhu7Kt2byJg3XKmIsumgJa6Q7Vp_LPzdqtujZD8lEjXovozRIglSeXWH3aK5aARTi5lp40II1NKV_oiv84JDwBzvC1I82I6UKnuVhGVOEmgNikmhJ-XyqX6nn5lTmoJO7YxTkE4W56KfSNwxmT0Lfo7sbfmt-NY4ccSee09f7EfbgigGWpDJHZVoyYqOOgOceEl9DXNQTrfJ0fxdVvOwd84xMHpVVnZLHbl5CSANbiQFNUmdVTyMfaimIeFbZL8ks1Tr-0BU_Fhq9iOCSEifHVtHqUgnv4k4PfGgEWECt2HMgYuYB8xBzt2UAl2a-cmGt
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29&fbclid=IwAR0DOFTIcAV2i2e8omgx4mUCMN0kwj94Lg5Ng3ZoNuBHxd7dBVg4GzA7sH0
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Fri, 13 Dec 2019 05:31:36 - [IP: 108.226.209.101] - [User: brent] - <br>Woocommerce notice: New passwords do not match.<br>
+Fri, 13 Dec 2019 05:32:13 - [IP: 108.226.209.101] - [User: brent] - <br>Woocommerce notice: New passwords do not match.<br>
+Fri, 13 Dec 2019 05:47:20 - [IP: 157.55.39.198] - [User: Guest] - term: viper-itb
+Fri, 13 Dec 2019 14:04:12 - [IP: 199.190.60.26] - [User: Guest] - Array
+(
+    [first_name] => Patrick
+    [username] => Thrrugnsbm
+    [email] => patrickedwards1016@yahoo.com
+    [password] => shauna1488
+    [interested_in_learning] => music-theory
+    [g-recaptcha-response] => 03AOLTBLSITaUUUagcpVmxgy5W7r_5iCb5kP7WuKdR4_Wh21U6NJV7OBHeIYXr37lYwAqsAAGwknvG9058PzujKDnFT9LnaMVZWbBtdW_39l7ISx2TvebpvRKog8GYZ8hhN0NTPFqpiNxvjaxdewE0wjessCID-cyv_zHY6q2Qc4wYE_OJrm24rLOKUiJawdRHuGhc8J8CoZ3QTFZU411DvuS3jZg7UnWM5KkYpejIkEXB5YYNT-EeKEYsleVrfy_vQzv0zytfevvpdBFEk7e-1ZdD-vqFC6UtHMxi2NzNY471HO0yp7jVx5yIioS1JcCAB8lHcIqjQgfeK9OoPq-BtYuucQmAsABf7-Sr8VFZH2PLjw0Eq15l2tWk3xTEenDC8L5TuX7UBFCjtgoShpFnlVxEns42d_Yv6DR1pHY3jTDNsVGTgQ4XCqh0julbftP7C-VAStrGa8oqMP-zKtT8PGmmR9suGEDBGRDu7DNCcyQTkmtJKRNdE-TffstJce5af0mRIt4A_prG31dZBnGJ1kkgnhXaKK3coOrd0QFxWeEWUgkI_1lLXYTuYPXrCULupq9s7BzxIGBu
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Fri, 13 Dec 2019 14:06:00 - [IP: 99.203.119.38] - [User: Guest] - Array
+(
+    [first_name] => Kevin
+    [username] => kross1256@gmail.com
+    [email] => kross1256@gmail.com
+    [password] => anthraxes
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLTuCyDZ-xE7ufGCnb4isamNzlXQVVK9HIWiZ6N44ZDPyPWoTM1uco6qpNXWaMXsbow2XIfEI75asdLu7-AzmS2GS6TmHc_q872dts85mIfsl-6n-T-rMiKtKyJQ4wFGRyrzqYb5jRS5-hmoShMcdU4l34OhcDTu0GprCdhkKVI2dQTxB-xZbUwrZwlz3hA8aQRKOGAMpL10o9EXr3R-TCSGqUiR_b_ZXBSfvcXR6cWncCzZt5XP_9ynjMZWqoUBTHWAmCe3fzbUj_IC_JPDwSng7g_3t0VVDNGGcZia0yle_WG4UFxIXYEbhYdjY9vMSl7y8hoDc5V52h0wxwttxxaxi8vBXnOC93nXGP0dFbD7A_WypB8Acfs4nLvSIbWjoC8MwUsyEPAwcv-HQ-F0WTxSLFjDetgEyCD_p3BIcuWbITbCMXnijS4s5Mv2EDRJeF-pcyzrkJrBc1Bc_HtcZVSXG4Q9FhG2TFyXGD6zz6kJYhvOIaa6PLVZOPruif8gimGATzh3yHj6DKdt0gvJBVw9ZMuGUi5eaBIueWDvtOL_RFE2jXidU7OZzFYDLjMbmmt3XKDJY99v3JEUKThDtEbvha6FgH9E6K4zIDScQwm2t8V-tvSm82GInqZhk7uaBY4K8i7L
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Fri, 13 Dec 2019 14:12:57 - [IP: 99.203.119.38] - [User: kross1256@gmail.com] - <br>Woocommerce notice: Account details changed successfully.<br>
+Fri, 13 Dec 2019 14:14:54 - [IP: 99.203.119.38] - [User: kross1256@gmail.com] - <br>Woocommerce notice: Account details changed successfully.<br>
+Fri, 13 Dec 2019 14:19:40 - [IP: 75.110.254.98] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please solve Captcha correctly<br>
+Fri, 13 Dec 2019 14:20:28 - [IP: 75.110.254.98] - [User: Guest] - Array
+(
+    [first_name] => John
+    [username] => Shredder.wv@protonmail.com
+    [email] => shredder.wv@protonmail.com
+    [password] => jacksonsl1
+    [interested_in_learning] => music-theory
+    [g-recaptcha-response] => 03AOLTBLR5ToF28ygrH74iCc4TxW1OiJXF3zkq513bGdH0UVwxk9mnYKoeV48rqTw-_Ah1OzmIHys0JtjnH7xQUMb9KPg70tPZxFhwDd0xbrPWAl-Ks45kmLc61TdbjfWJVsIPZMwadQD9ieYRAouXHm-odJ9jt1y44fUlBL5N1H1plQbWBytXkudbLj0fOJMs13gScDrrV-CQCvgW3Mn96cu8FA2mpVYy3SH7GacaZ9Q2gcDqheZhyH4PDuHuC8a7GWismH6V7iRN_dAlNAYU6URrt9GdFhTihsyFDHfZlMM9MUiTqB-na3E_5WiQZiZcO5wzlRtO-i7pojOMAappvEGf2m_prj1ahXZ1V71hownUGVJuiDc273n4ANJtOdZQkrRBzhmapK-5KNHszf2_5Yy8OqjBbGLtnGsKJvImKorC0FmKLP4yWXyuE1Sxzd6OgVIDS-17ot-PsFZqn09xpGM6bMB9srilXiNl1y6CnkQphhr7IQ6RtsOYIboQurSnkyFlktt_z-GEU7Uj4J32S3VzfgZoASiJwQIARu9LTwCshm09s7FPpERGSLB34Qvhchfg5-fmhSi-
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Fri, 13 Dec 2019 17:53:17 - [IP: 76.84.146.178] - [User: Guest] - Array
+(
+    [first_name] => Jordan
+    [username] => jordannewill1814@gmail.com
+    [email] => jordannewill1814@gmail.com
+    [password] => Loveemx3
+    [interested_in_learning] => writing
+    [g-recaptcha-response] => 03AOLTBLS3pA2bUDNGFQZCDxCtObp54YMJESqX0JikVwuGlLScgmKBqKFK5LOnff5gzC_IMuJt4iI7UtXc14E348fUpyMRwFslx_Zue4NoiqTJSpCTYzJ98cW6Y5RRnf43zTImS8trB5VYxahdchXEuuaGnz55XJWSjurSeadrWjZI6pqfHu49d29xWGXXXRGBuzynZYjGHDPVqhXgqx8RkAUGLOi-F-LMsGnfWlbVPaGHSPpVwNw0a7R5SnvQ-kEQmRxojDHWEnEYQK2aVQ4mPOQdoNkqt_Nc8JN5_9tbEd2mlJXWvLl0XxqlBScd91BalIpHGIL_60xKa_KHNhunCl2_BQp3dIE-jBCn8qrqiI4vAuoBr4y19IGHlSSx3-vj-sdjKv-Eq2sqjSDG76zu2KK6Vx01l6CmozhB8YySn9aV9IhWE47rIqhsEpVbEi08IIwGdDiTvl5K27GH9-63r7Ainl6SN61N_ICYs3pn7bwe51Xs2s0jnjSiTV4LvQFtAGjXPmle7uutnQCEAVjMPVh9cgHpz33lkhowZ9wlCrviaSMf_vS5JoG2cZ2_LpcjbmdeciIykc6lQaT0HlIIVP4aTsu5HqIA-chy1GO95G17H0UGSccIsgj8mqI7YaCQJndPUPXNVW59
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Fri, 13 Dec 2019 17:59:11 - [IP: 12.50.25.26] - [User: Guest] - Array
+(
+    [first_name] => Johnny
+    [username] => JohnnyG
+    [email] => jrgardnerjr@gmail.com
+    [password] => Megadeth1
+    [interested_in_learning] => music-theory
+    [g-recaptcha-response] => 03AOLTBLSw_GiAZDKsrHsY5uRfBrKiamuKF4LAltjc9tG1bagZnN4lXoJmOzPjwyqxw1ZhF4zORgYDpvhPqI0JZR4d_YSmkRSxDCjkT1f3hst3C7DsQ1cb_CJT6KT9zzh_KXimdjVlBg3_yiDB-JcV5_hQOh1HC31FDYN93pvppdM1rqpeM_2D9-_JqNTpzMdBNdjrBF07SqViqSsdJP_Y8eQSSo1EGDxze56sGwSWZH0DVLHU-oIQ0NB1h4c0OIKeVuDDIfsOTDaLf0ozR51kQpF5owxpv0J7LaJu4y4UXMBNyt4wGdcZknDUUPvWWqwkv_l1wVPZOgqQskYf-3Vt6kQHnx0XV_syihmOQVdZPAk5ulHwcpp3NP7TbMm4mFmHNUNnDF2SuzoXSHnzVctk-ReE-fwvc-dVeRlL2hdaWhpyy2tBX1dq73gQaAcoyIXLoqG9tpsCBepaGlSMMd9I1vNXEDh-jro_AsbwTJA3F5rkKcbbq0R0kj2hQuqM25YaE5_PUDLJaeQF1dVj4rjrpsKM057oZuloeYeiKDUuxq68xkWjlBPtFt-bcX1l3TKVqk5BCfHGIz83
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Fri, 13 Dec 2019 19:36:12 - [IP: 50.5.13.17] - [User: Guest] - Array
+(
+    [first_name] => Caleb
+    [username] => cavedwarf
+    [email] => calebsund@gmail.com
+    [password] => pik6323DG
+    [interested_in_learning] => writing
+    [g-recaptcha-response] => 03AOLTBLS9mQTyvTW1-bUFrNyKggewT1FrwKE0wSQmy8m6zoUTFNhphFP80VB99uScdCW8eme11aSpVfCqxSVTl_48SEfF6i0yeeatZEOIi6MyMPNY4BwE0vNcaSvenTzZk6Cpif_KBC_MaE8RslBKB9FY1irLM3cIalGdZkhlygK2PLl1AI34IIJKN5trfVgiFabJDGYu60PZKcKZPvFUoLQdQm8-oCJg4hs8zPqwsKxpXDJ0TRQoXbCCbqaUbMwHeOR8oM-yqBx5lxN5MCvFS93Ua-lv7gLVa6eUtosyWo3aeZokButB3dwIatQpcbHka0O6U4CF4JXdZOZBQUXsLGuqNciMLYvYIfNlx3wbLcDiIj-bTHPvf6YKlRwB_3HF3OAGHjEuFizojY0hWTdA01j0v-Agzp_RqIeEcT3VpHvNRfl-MTTLbbV8qpw_WEWr-YRK4ka04Ix_tOQ6zrLx4TvkvhNFppxMRQ8RuwpUW5WwTqR0MA6qxabQSAa337T31JoqdMuI7BDEDJup5EWJM84U_10YgzT0dg
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /online-guitar-amp-simulator/
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Fri, 13 Dec 2019 20:19:03 - [IP: 72.255.149.122] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please solve Captcha correctly<br>
+Fri, 13 Dec 2019 20:24:41 - [IP: 158.69.243.99] - [User: Guest] - term: lepou-plugins
+Fri, 13 Dec 2019 20:24:56 - [IP: 99.249.152.130] - [User: Guest] - Array
+(
+    [first_name] => Wayne
+    [username] => wayner3519
+    [email] => wayner3519@hotmail.com
+    [password] => Aurora10036
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLSv6qHDrTqj0Q87uTWB7NuzyUSBwyOXoVyMHth6LjL1ntB_V1If458etrHacIfxfNMMsl01XUE8yXxxtnIOJXc9WUDMEM8HRo9HUspXPRO5mqmKv7McRukRfK6VUfbXLooKVpfouMpgSQX7LzKS7U2zTDB4Jra566b0Br271t8ZEnzi8a-OBjNozXIanDgc2YcAuoa-sfLwiYxGS5v4NsYfKTpXmMwMmJ_Yz_xtEVgY1qJEgmdQkwZEnVxHUrxfcBoOdKEeqhTn2zAszQ_odbc_hjpnaXWk3PbfUQibpAq94ATgZACFr6pYrNEQ_vhvzPUktWq4zNGKBK02DKmPxLjXXW9U84RatK6jEL9Es84NXTtBszaBrrXrFLMnYNCBW1k_C-uoMc_PO0-IDjis5mynHK1rm7URFTL28JfKWmLhvS4aaYtw0WOWkuDs6KAlTLr2KEPZvMn2vMRbiqworH2rQ7BDSFIaajpD9_QAXF7gfoaAy0cVvTf8BLFp2E3IbVSqhgcVkTxF9vnoAm-6GSagmX1niCydaQ4OmSFJVJJm0SVC7l0xGjNKXcWEKdC5BM_LG-OK9xW5LHX5BajaFOSkGXU4fw
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29&fbclid=IwAR3Hgyc429RZ0o1n22CS4Ym4LQDzmVteroBhArJShmKiHPkjdPAJSV48oh4
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Fri, 13 Dec 2019 22:02:54 - [IP: 157.55.39.50] - [User: Guest] - term: neural-dsp
+Fri, 13 Dec 2019 23:46:04 - [IP: 208.114.165.68] - [User: Guest] - Array
+(
+    [first_name] => Anthony
+    [username] => AnthonyAvarice
+    [email] => green-hell@hotmail.ca
+    [password] => Deathbat666
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLSLypMs7nFWDI--upr3uaB6YaIFK_imcFdT2aByQhyik74wEkfcoeERHdwHu8N7EvZnVsC1JIXLTvp2yFuEytTLBof_QZ1MjlPrsTIbNIqlGM4jbXHBqhUNEwHf2xoZl5xDjU2ujP39wTdLEthYW4UVwFgD_hhUKMDPIwDuML6Xbe6NYVA7wYXuE2n4bC_2l4IQdZ_XiiiAtC1WOktLwI-J1D_bQplLomETWE4Xmij9itMMo_qmh_sOT-zSmfxmRvY6fShewphT4lmod0oyLo-NKLMhIZYqezMid9bIBQ0N_gPytltNJ-BO8T_rMzlgZI8pEItQZyG8gECg4ZZSQz8q9g33Vi3kvacWXp37chjaxCGz0kFdIncsUzu5fRbNmqJtwamvUpLoOriMCsTtOdRkq-A7sUhUNMRTisAoW7UJEaf-gvFr0rvWsRbOL9guOO8o8vBOiB_Iy3YRrgw0LdszHjRU0bGMJyqOwZVUrHIy04LB9kaChVYT66O_t-asXl0fEuqP51g6_42wFpi8GFNbkhewim3cGA07DLeYPWI7hcMr391F3XFJuXG22v10gjhMhVfxupjg28Iy6RP5iUOc35MbIYQ6txFci5ZkoDwVifbc3Do
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Sat, 14 Dec 2019 00:03:00 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Sat, 14 Dec 2019 00:08:38 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Sat, 14 Dec 2019 00:16:49 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Sat, 14 Dec 2019 00:24:19 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Sat, 14 Dec 2019 00:35:39 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Sat, 14 Dec 2019 00:37:41 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Sat, 14 Dec 2019 00:47:14 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Sat, 14 Dec 2019 00:51:10 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Sat, 14 Dec 2019 00:56:53 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Sat, 14 Dec 2019 01:09:33 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Sat, 14 Dec 2019 01:12:51 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Sat, 14 Dec 2019 01:15:18 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Sat, 14 Dec 2019 01:23:59 - [IP: 23.17.175.1] - [User: Guest] - Array
+(
+    [first_name] => James
+    [username] => James
+    [email] => jamesdawson26@hotmail.com
+    [password] => vanwissen39
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLS-CAkcdjx-F75RrhdS-brMrKIjn-SXmZOw4gInzKEtgapBYKoze9AxuoTAYuDUn4PX8I7JEKDN0bRdVo9ifU6EYu7YRpBaSAr1q-WHZkuIIlxP64YeUcCRb95FzgA9KgogwT1SScHwY4zO3EBqzY-vqf3T0aDZThJ42rYHwcSn2qv8cTiAJSX0q5q2WY4lQ144SNy4DOocadCBZ1YF71OOsGWoj6FbMAvAllussiINlQneTBbIZLa_696pWJ-gEHsyqnQDYvHboOly4B9eQO0POqrryn99t6FfwR-iYpWzioC3oFuVVyOVftC-RSMx8kbPX7wqE0NgZmCs2tbULAo8fLLXU5V8PY9MG1vjq1GFik7_sx005k07Brht7ByCElOOYfipmK_HviAOfRpr7YdCzWEN7zv-8WEg3YV2Y42aC4eTiOLpKs555flLp08W2DTrkE5XtvZcY72wKQK5tJkMYkzoqAWioSXTUylOz9SUGYBVNZUoBrxlTClDEs2Op3MKk89ikdoAWuZPkpjwmI-hGZmYyGnQGkqi2BjfG8lKmDbS7xvzUZAAfrXm_egoDY7cBj4irFGv50HTd95MZPGT4pCB0pWCiV6mwsddBs0w1HcdYIIJWRbidJxlRkyN0exagP63
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Sat, 14 Dec 2019 01:37:24 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Sat, 14 Dec 2019 01:57:25 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Sat, 14 Dec 2019 02:32:54 - [IP: 174.231.130.152] - [User: Guest] - Array
+(
+    [first_name] => James 
+    [username] => wordoffire@gmail.com
+    [email] => wordoffire@gmail.com
+    [password] => janeria1
+    [interested_in_learning] => writing
+    [g-recaptcha-response] => 03AOLTBLRK2gL5F_fNe_q5bib0lPkKzymsa4ltibeaE1M6lHah5vBbQR2NCkDBgn9DgwuUCLSWUYcPQNkWh_lJRqUoPRN7mgkAJtNKxTBKNptXLrHFPXeEHsVPHGRRtJCulspYQZt2on5S-mioiRWlGDtrXgjuxBu6KZHj7Jta1MBDx1dlsdSN-lXE0OsdsrGnAy4HwLGnyIS7UWOXLP6hwZKCnw4ljHX9BIlqOihoEdOM6IzllqhRyOXQC-AQIpHlZgVF6y1pK9HHYB9dXdMvpGJkA8meQ_i1dF8nBD4G6wuRyXnapW5TKEx9x1wqG4e3sqhjhxwuJopabsHf8vu_bBLxee0Wfy6cjb_oOGF6Hhb0mDrRH_BAsXXR0Dv3zphVYhZllisCL9oU1ArePydOsm98oRjGG43ZWbS0cOwqU8UtSMhqNRxjqxYflyxK1WYOmJYd-2D5BFWnjkNyz6u2eo_JEB-iBRUcjQRLgJ_mTb_BCbb7vOz0hsHdq8T1Zxz1srVgjrcRTZTtjmwovQ5KoSGOVh1HzCyZfnvJFRCbBDSP6cyXRYhRYvBg_cZRliZ24nMZL_CjmlfZCC4y1ZAiW8J5G7RM3-n8hNpejMfrPioGa5keiJ2fRv5Ac0Hl1pmJy1AFkZaDxgK7
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Sat, 14 Dec 2019 03:36:57 - [IP: 75.98.182.38] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please solve Captcha correctly<br>
+Sat, 14 Dec 2019 03:38:07 - [IP: 75.98.182.38] - [User: Guest] - Array
+(
+    [first_name] => Race
+    [username] => Raceloveml
+    [email] => meltonrace34@gmail.com
+    [password] => zander54
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLSVh0p_y7nR36mQ1mDBw49wMjWplIr2iuMlvfXdcZPueSMysnbXy335yClTcyvs-Q0NCaSAKCc7WAeX2ro3vq0N13qwNdtqQ1cLwZbRNWsPG7P3ItHVBQODeXWMcglBCQQ7q9ijbc-6BlK2CtvYLsZQAhxtBqzYmjS-RrwL-ISA21B_XGDTJ-jHE3OHQQiOuo6aiNvf9AxC6qjcsrdHlb3EPlydhecjTBnHXlBllPTK-dpy-D2gcAJNGoy_pmpCnZxp-667NbDiwpWZPBS4qyuYZ8H4nMIng82JLdDN6En4ICQ2D5Qx2hpMo3itI3Whgefnlooro-p6rcs-1vwSOS58o7Qvn66rTEI7AKm_cbJitY3oasaGPb61WL6syaFGZpw_H7pn4zJ1cNrbhgVX_jVbjdJymap05TKbv5njhrG7xEZpZuPre9507k0DhHVBVFhEGyi7g5LWMor6nfHeIhmog7R3lA6iz3RChX0DXkz1Zobp3MhhTUYf-YPMQG8V9vy5rmR2FKiSp7hecruw0invUc1xrNjdMwfaHslVg00_-1tbXPtnsBywra7wd1u2F1NkkCYE
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Sat, 14 Dec 2019 03:47:57 - [IP: 98.118.162.98] - [User: Guest] - Array
+(
+    [first_name] => Adam
+    [username] => bartlett0309@gmail.com
+    [email] => bartlett0309@gmail.com
+    [password] => Helpneplease0
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLT-Tt3jYD28yX4yp_2XQui9ASfVukDcZmQbLYG09RC0OVRgowvAKswfenTNoZrphA21GIncz6ov02bXAkS1_pprSeS5rqCGH3iV9KSx2a_c-2Kq4dfYMz9uG9icrPRi05uiFR2_d3gI2SyiX6jp2UzQ9ki1FOwLlpfHsSYrwOQb5mjxS8dxoMLqxpWmV9yBIOe7heY0bWF8epHU7v_SPfjM7vvdeeQOg4FosLInNuKaJjyQWlbn3BFZbRSG4eAXsZATnT0xBxgUuQujqfHnbaja6wcp0QBnvaa8YgFh3dal-VJFLZIMtSdMLKoVK811EgMGPncnFG2xEXetwHEpNxBlPiRL35YcGtE9sFOV0ptudLiMwG7wuAuu_csFVUdW5S89bpVbSbBTHUoUgizKjHoE3K-mEaikH0ZMp7AsFAjFUUqpGqSb5v0K9UyM6PRmtf0VdKSeS0UXY7_KomtvMlUIIerxaVniCsIyCS15Ubk_zOK9XSefqIrLHaTii1BOJVh3EmLgLuRloRhzQELv4NMcGAEQDXpHClQ8kEWNyKX70Kp3nnd_pxmRfCuMjuANAaePClm6
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Sat, 14 Dec 2019 03:55:53 - [IP: 207.46.13.154] - [User: Guest] - term: sinmix
+Sat, 14 Dec 2019 03:57:05 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Sat, 14 Dec 2019 03:59:49 - [IP: 122.199.61.253] - [User: christopher] - Cleared cache on css save
+Sat, 14 Dec 2019 04:16:15 - [IP: 107.77.235.34] - [User: Guest] - Array
+(
+    [first_name] => Russell
+    [username] => xLASTxRITESx
+    [email] => demonzdemize13@gmail.com
+    [password] => Supermansdead13
+    [interested_in_learning] => music-theory
+    [g-recaptcha-response] => 03AOLTBLRYo5mY6VKni1xGrxxudvWwVxZWqx1bsLjaOgKi4AtOaBzWVANPM-aJ2QRJddf-ZpY_WNtW6I9yMV-xZ_ZDy7Dq59-J0wSpB9qxz8d_zCxeqRw9YXKS0MJU9P9Ly4MxyVkaokpbsWNGFnD5794K1FqxQoMGbEKWBfITwO5a4WK_h7wJj34MmCm9mGQVNloSskUHmFOjlRvja2p1W9oykpGN-0-R5pfHzZTC57djeIJkUi1TUyKxNg61x3bihzWrXYbRYfkBE9Om-ryksLHeeeLwYdDLfVstaeHg34V7NX3lmZNzKzRnW602691tyLZgKb8MvjBcYOscPRt-3jd-Sx_TAmaQyEK-Eu6Vlzltp_LMlBcbK6cLyBIChGcnR4I4AiVGH8kHaaC0TlyqM5L6ehH1VDitH67dP5tSqpgGSN4zgkPnc6tBXEIOBNRzFdUcGLD7avPRAgneNcCoRipWKFzCcjSr0T6vTVBzezuukB_QGIi90e1XsZbDdvvufPEZlT_7Lp4yo7K2Gp6yY4Q1P65Hp_tgETazE-VJacDv9J9mFdxBT2j6gt7l6ptoKhLdRgJIE6eP
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Sat, 14 Dec 2019 05:31:35 - [IP: 37.9.87.157] - [User: Guest] - term: lancaster-audio
+Sat, 14 Dec 2019 05:36:46 - [IP: 157.55.39.50] - [User: Guest] - term: plektron
+Sat, 14 Dec 2019 07:58:03 - [IP: 40.77.167.174] - [User: Guest] - term: stl-tones
+Sat, 14 Dec 2019 08:20:58 - [IP: 54.36.148.189] - [User: Guest] - term: catharsis
+Sat, 14 Dec 2019 08:36:00 - [IP: 75.98.182.38] - [User: Guest] - <br>Woocommerce notice: <strong>ERROR</strong>: The username or password you entered is incorrect. <a href="https://daviesguitars.io/my-account/lost-password/" title="Password Lost and Found">Lost your password</a>?<br>
+Sat, 14 Dec 2019 15:08:30 - [IP: 75.88.77.54] - [User: Guest] - Array
+(
+    [first_name] => Tony
+    [username] => Tcarel
+    [email] => tonycarel@yahoo.com
+    [password] => shawnacarel95
+    [interested_in_learning] => music-theory
+    [g-recaptcha-response] => 03AOLTBLRqLFi6YENdkVgkb6IVDeggyvwlSzoJtpFLu0GwnVhmX-442g7DBIbu2UNJsAXrjvOMQUVCJbi9-1R6EHzRsr6nuA4-2BIan22C1v7NmbwHeQh8_hseenKJNdz0g21-WGN2JG2b3Tlk2ZqmQoco3ou9WRl0nNxfGUJzWvRKiyjU3bOls1n6RiXYhDJTqtX5JQXsf_Yju9wYso8dB2Sed_Nk7pA4-8W8221lufWaBpBT3b390TZLutGrH-gEpoiZ2ZttHGWcYfvCMnK5YRi4WsY16-hcIYArxNd610xU2C7R2jhnkjcF3cm3cOdij-tAvRp8D_hdXW0pS4s0k0UcL5U7Q2vmIJ3DvacmdZQrpiYHIvoEuasAweL4KuCQLZUhrniMK4PiqV_fhhr4hRCgs6uBgMr1PGtG5h4nGcdCeNS9wAw4i6qq6QG5fcTgz1_IGc0VbVcIVDWQVxkZ_Ir9PH8xr-S8lXB9egG98XAx87o7_PgiTT3lDFr2Rb0g5mSNrv6Tc8JEk3aGZ6tfq9omOc0DC59GnYOyFDlP1pmWlhoZojbbADg
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Sat, 14 Dec 2019 15:40:03 - [IP: 40.77.167.82] - [User: Guest] - term: softube
+Sat, 14 Dec 2019 17:58:58 - [IP: 207.46.13.250] - [User: Guest] - term: mesa-boogie
+Sat, 14 Dec 2019 19:10:56 - [IP: 65.189.73.193] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please solve Captcha correctly<br>
+Sat, 14 Dec 2019 19:11:22 - [IP: 65.189.73.193] - [User: Guest] - Array
+(
+    [first_name] => waylon
+    [username] => Max2019
+    [email] => waylonadams95@gmail.com
+    [password] => 5BcUje2w3SBRq3N
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLSYAwDOthmNSMAXxHznrIGyYX4O7KwsynpJvPaCuAWSP_-0kL7PXRNIuVcGldZvkiqH4FwrGZD5o-YaKf_NP6Qbn5Gfj5R5oPTT07hRelpjml2VfdmoRbc07sEKfOgwxTzwOB-aBqCz664R93HOvmlxKfgNb7TeModIHQhmSEtypU7tf2P2lmXWt5_N5yYvQlS9XeFNYjP26t0A6LqWFTuK_qxHPjVDyS8V0leUixEqzQ9A3nl7BGWWn2zMvdnzakvnEsC3KG-Wl9R9EXJPkABWLUNr2IFTBdZ92W_cxr0q3WGIF2TWS2yOauUpEfklvv4QKh_7HYATHYauz3MwjmymXexbVucJhqA-ZjE60_wy_y8ITDDPZbSkq1V7WAVLDMnnIAMeKTZ_a1ESSgl9sBy1sitD7v_ct3EnqcbWtsdL1WqQISwuAlvHedERGoCzdiThkICR2AYl_ToyQLnt-ILH_aFG55CDbCK8OQaF7GfokJTdX9IshY19CQ_QG2P1WDypxnt1bfzNVh87w-7dOD5gZncIUVkY84PQcGsPjENwF5kyTUuTpNwgcTdI5g88GoJPss4ZOXf0WxAMAwHnH0_hedoh_QaztO9xt_XdKtKZ4Y9D3lU
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /online-guitar-amp-simulator/
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Sat, 14 Dec 2019 21:02:03 - [IP: 67.193.50.39] - [User: Guest] - Array
+(
+    [first_name] => josh
+    [username] => hill
+    [email] => c-grader@hotmail.com
+    [password] => P6ib58NNHzSuNLv
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLT6NnVHTjaUC1CRJfXEV6m38b8yhl3THhZd8VyesD5A0rZNix-Z_c1vI1GT6dQRy8KkgB1IG08IqUINSKOO3V2WZPeej9dXeGAKEBjDLDiyWKYRG5ByLnwKpqc7srNzjCS_ywiEx1dcAMHr_29eeiFWG3kUFOT8kswliUxalpnCi2VeiObWdFw1bOYPGHJCxAfvHkzyl-qnxy0FSQgzEhURmYl_qAhJ3rVJmH5O3XxgA9igZ5-PrEKfA2gsiKHmJMJkBaShz-tBuyk-FMoiXkfzrNGh2-AH8q9cnBLQmoR_m3JDHCuSJ8CmzN6iPKzTEqo7wZ1JAU4V-dbGRq4DTLUxNT95C8e7OTVDlak3uOUWe17vkYHlYnjK4--IscyW3dr4FBDee6mn4d3fJKZOpJ4VwwqE4ZiCRtdfsQB-kiKRwJnF7YMBsOyUyFvvCoFQsp1ZeqPBRKahJsACavWJCbdyxF6rQh2JAH_HqFjRcHpXt4ATpPdtnObEM1v2rx4dV53JWwpSeySvXKB_86iec-ExFFU5PA
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /online-guitar-amp-simulator/
+    [register] => Register
+    [pum_form_popup_id] => 23524
+)
+
+Sat, 14 Dec 2019 21:55:22 - [IP: 37.9.87.157] - [User: Guest] - term: chop-tones
+Sat, 14 Dec 2019 22:54:16 - [IP: 50.65.128.46] - [User: Guest] - Array
+(
+    [first_name] => Kyle
+    [username] => Satan
+    [email] => blaxemith@gmail.com
+    [password] => Pa55w3rd!
+    [interested_in_learning] => music-theory
+    [g-recaptcha-response] => 03AOLTBLSDqeq4nIxMWQT2dZeiEVP1K6RsVFGEj1BRu8d_D2_QFm6BQnkwyemlxo5ENktevnf-RdRASS0jsKwHxO_URMBCP9sTZuNOOCtt171hV-7dNsVFPdCcVonuYyAwoJuxdKam4eM4v4tojX_UC0MmEgAHrHjNqsR05Mph0YCS9j3kp6kyuOrGGrnFo4K98SC-mRstgIqY_Jhu16iaR7eoWYipRsybkA1PDZex6I-ivd3SjMIr14Eh6VqBNjTsDHWivq1cht2_XTZdJjx83mv2yKsQDCXPOmWQRhK5Kn1SVcQYAfydaWwkKoPyK2cSvofCVveyRFzKsX1v_m9FtUbiouCRhPgxTEsgXrGnUm7wjMQxPktI8CXx6GRpiL1dYm_00pc8_z3yICXnLeVmIMU8OlCqpvhhGtwEyyYnr-9E7f9Q8dLSSaHvuhbm7cq1uDQP81KP04dbnncv4k394lwaOralxyi6DPQB8OdL2WcL0xS415yd99Iec02NqadBXg706qFqXahcGrZnjs-GeACUt7yAmGrD7y7tl8VhfF_zSTcdX22kNQGD7I8pYXJ33EIIosfdK05b
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Sat, 14 Dec 2019 23:32:17 - [IP: 67.69.76.206] - [User: Guest] - Array
+(
+    [first_name] => Outlaw Lotus
+    [username] => Outlaw Loadthis Immortal
+    [email] => thanihatie1111@outlook.com
+    [password] => Atinaliu1983
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLS182zzh7cnYMMK0FOHWQEjVf2p_IcSGHa9obDrzCFwf2XxIOAjTPtgHzlRuT1NRFqRMeag61WwTCoaUIeqc6ng8EgRvl_mCgKXPWl_Fq4ibfxNT8M6N_0OtRBpzvqZ7xJeIWF8JkhzGVPDCGq0tAFh-VZN9UZWIB5VRK-UYnDFecAHb79JC13r-S52YRq3ePjw_FgcDq99BU--I77g41iPMymZ3AK0b31L0Eg4AVSLMQV4Nlo0fiXGfU-FUpWKLn1tHdPcaexxJdssvABj2hF8xJTfkIYVR06BW7Cx0oi_te6er-82EiAQLvVlbgM3dpBsM7iwfq8xC_CTFcXe18HGnRjQMc_vdX-7Rs9TZJTM_xwwfv7wOnfqplkIwtT3cv05ftSKbYIZHDTX08P8qHOMVQK2HQJF75Qe5CaMsquSiFvIBMEF_6YdwtnxrumMU7FOaNCiMjbeydRemogwztxPHexkHRKEwpdYBvLqlnvY0Q5HCgncUSNJcDR3-DD7-qR7I5kaEB5zweCTL5jTFCMJnLRjqOhngdqneyVd8i6XS3SfWRd8vmXYZa2GemZkvRwjb2o7E8bminxoQgM7Bp3RU-kaC9qaOKKXclRtK2uzMBOK7k2yq4sLoRSUkMb9QK5h5EN7
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Sat, 14 Dec 2019 23:41:33 - [IP: 40.77.167.161] - [User: Guest] - term: scuffham
+Sun, 15 Dec 2019 00:07:36 - [IP: 47.157.181.176] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please solve Captcha correctly<br>
+Sun, 15 Dec 2019 00:08:29 - [IP: 47.157.181.176] - [User: Guest] - Array
+(
+    [first_name] => Jerret
+    [username] => Jerretclark@gmail.c koiom
+    [email] => Jerretclark@gmail.com
+    [password] => MODE5250
+    [interested_in_learning] => writing
+    [g-recaptcha-response] => 03AOLTBLTzIUWh9fijIbpkeL66ySJBFCtLVUvlXRdnNN0_ygRmp2zJUOkZEGsaqJXQLFMYHUALsOzZRzDQLsELv3mmM-ac6LpQl01lBrYnv6jA2k4J_t9wMnv_xmgh1pPuKfimczd9jG0rboZwPtdmwauPlEQNPiqB7xx_e89o1MefCzMVhQ2K4r1ycIPLd5jp0WJXKBwpO_BLtOHhYPm_Xr8d_MWsWiYfyITTrE5Io5Y2qK6TUyqvjsxdCaco8fh3MR5Me2Ne4iW5UtA_HyKBfo61DA0jkeP_uk4ti_GgkrNCgJkyZ9_mVMEBJ_4LldBJjRaoFEsqzeOJaAwN_cz6Z5TYW9fhAO-lnQ8gY1Yeg2zPGKjecgl7mdGC-DGoxvyDpsOTYX9FNupiVL7qLm4rLNuiB0m16HUwYkyPR4LTm1khn1mOvr0_b_Nj_PPwW6xiAZ_WKhNqVrvgPWbuA_4Vc2-9FPc9rVCbjb2ff-cs1dxw4KxgAUEyhs8FWqycmklQF5OVU1_0l86HLo-BTnvUbtbWm1bWLF0QbXdC4ufMiYfx2kILCoHMX_udOhFRX5dY8nEP4RnFIR0l
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Sun, 15 Dec 2019 02:53:13 - [IP: 72.199.105.59] - [User: Guest] - Array
+(
+    [first_name] => Francisco
+    [username] => kikogamer121
+    [email] => franciscocorcoles121@gmail.com
+    [password] => minedude121
+    [g-recaptcha-response] => 03AOLTBLRzZ8HqeKGSbxKCyFN8qdYptcI7IMOeVSOQTuJoWc9Qwc1unViyr9sNpNfScU-mS0B21eHxV1_lU3LEsk0YLcJe2rCd99IBCAZj0YeN47g5OD5cbELcvD8OJ66A4x4FgKZeUKqdTJ1GBG_Sc5LJPzHvH7ifgg89cQ1pbVgThPsO-ZQUuOep8pJA6_cS4ifbYsxE8dLuUsbDg_WsDH_8wLY7mPLflIv6lrfUUUt0whc6VNka11dRxQeTe5otLSU7jLd-556YWliK_9o6Qw_TjnHxyUdqIhYu6Ba0UR5A_JF-Orr6UYyAyvBchyJDd1oTYat1oJ_zhK3pOO_J4mC90UdniDGXqXRq7pDqYPu6W_FMhMQTmZ6Jzf6pXz6_MV0ODWvDUx7Hp3xSuiK99uvFyFI0FhMSlvQsTUZ1fsDzwW_JrTne3_6lJeu8dfxipnsykoRyug2K8alEA8d6S0i6Sa9L3-Svy6UGfdGbuuaQCYblRuCDS9aSTz3O6SNxkMp9R84BetGvbBJ9WQtvNGtihOmDzJRXCGFiadrfaq4iCr2oIkccW1xa6s_zoWHB--NxZPxt6NX5a_DkDngCXnlb51sS1EKns6duoFwcjJg-oghlOod0wzQ
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /online-guitar-amp-simulator/
+    [register] => Register
+    [pum_form_popup_id] => 23524
+)
+
+Sun, 15 Dec 2019 03:57:22 - [IP: 216.36.139.195] - [User: Guest] - Array
+(
+    [first_name] => Derek 
+    [username] => Derek Bournon
+    [email] => derek.bournon@email.com
+    [password] => 666123
+    [interested_in_learning] => writing
+    [g-recaptcha-response] => 03AOLTBLRpKh1iNfK3Uwe5zVdXWuBMFol1A4K8rYNb69Iff3AW0X8rV9fk_pGLW265XNHK6erS4Hn6O_5aAjmJVSRPtL45B8XT-RC3UEvrNbN9CArujQLqfizRqC6PJBlI3oWF2oQa3qUimZVIt_6UysDnMaovQqN6kOGpI1T5RePlrAiZJ9rgDr-1ZX0cfuE2I4X17GHPup4-ULYWXUVo39Wg8fwS4ztJllprt311QCDeB91idZyeLwNFbQjqsWX815nLG_ZhszP8l14BXX-G6PSWyk_1zCZy_zl3yVo17didJRt1NoVYhVPTfN6vg2FTU5VKvQKR2j13HOM3vjn7hM_AFwf6mEcUUbU1n4CvES-zGq0o5intQMQrnUCuARzjyLAjfGmqkao-ouiG_TVWRa1vIeaWI3XCJzrEYGFM_PeB1tR_wvTsutw_nofOXv6OzU6nDNwK0__IYiCTiU5fpHKQX35uBAYK498EiPtrcj_wV28r5MHSD3nyZJeeyvVvUjOuEXn9GTCB_6CLPNDZz58eoLybQDs_f1DRR6EAyNs7rUolkBE36yAha_lKLddzMuxviBKMcoqq
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Sun, 15 Dec 2019 08:17:00 - [IP: 46.229.168.150] - [User: Guest] - <br>Woocommerce notice: <div class="cart-added"><div class="cart-added-text">&ldquo;Heavy Metal Guitar Exercises&rdquo; has been added to your cart.</div><div class="cart-added-button"><a href="https://daviesguitars.io/cart/" class="gem-button button wc-forward">View cart</a></div></div><br>
+Sun, 15 Dec 2019 08:17:05 - [IP: 207.46.13.223] - [User: Guest] - term: jtm-profiles
+Sun, 15 Dec 2019 09:09:39 - [IP: 172.58.75.99] - [User: Guest] - Array
+(
+    [first_name] => Ric
+    [username] => ricstjohn
+    [email] => ricstjohn.lv@gmail.com
+    [password] => Anchor85bay
+    [interested_in_learning] => music-theory
+    [g-recaptcha-response] => 03AOLTBLQ8Rxcb-ToqKyMu2EFdI6j6QU6klFwrjvSo5BjXokV-44XRyDhyd-znlBS9WeiyjVXDq75Cu43UztvYQQ-I7rcUbKK85KuoMaoP7ySbT4BNkoMMXRpPMKT4tk6GrFVMrWAZEzuZZfoi4SikGHX2LraGllgMH35IvS2Ti9xgGgSJuAZcJc7m_rnhcDX6Qh4lfBaFb80r5dtWQ6_R9cgS3CfhGOmFUbKMwSp6DGJF5aLXQN1bMHzaRq6dJAf0YQxrhL4KOm2nlrP3oWF6pTVSscGlWJ3trSFJGmKNcLCQGMarlliF2RGMdrwAhbd2ky6-g_fS5MAk5HSA78opInHQ-PwCJ76cZV-UaFKOv3bpDRcyEsfLwrMewpbEWxyiRhprpdnTD5RWCyX9QPMPfXZOM5mzwULaL6PxQY43N2zWlj_7ssQywKRTo8oxSBqDoA8gN2gNweX_xPvINyJkl8FS1ubvlM3p7pu3pRrdqSK4Kv3tFXaO6rLJsZALWUH4a--pPBKLeCtT5RMiq16qk5iIUhssUqG7c6ashkf7gz5_TRi3Wi1jcCvTWoX-FO6cCchAPYbhvOCYMbDjlAGxtnH0N18_WC6TkJ_cmi3osKZY9xCXaUuIQ5CzIQg1pO29XJppBS5xaEvn
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Sun, 15 Dec 2019 09:12:13 - [IP: 207.46.13.133] - [User: Guest] - term: heeb
+Sun, 15 Dec 2019 16:06:23 - [IP: 66.249.79.38] - [User: Guest] - term: neural-dsp
+Sun, 15 Dec 2019 20:07:37 - [IP: 46.230.140.66] - [User: Guest] - Array
+(
+    [first_name] => Emil
+    [username] => emil1233445
+    [email] => emilueide@gmail.com
+    [password] => trulte123
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLQfePBYdjwxGJUM8vEwFJnBUrZyZhCoQeKo6SssbHD3GZKbbwi-0TpcRguKASYqtkRovyyfBLGIBd7x0dyRFi0tqE57buSSER17Z6zuMhZtVzi8rJNbiLSxuS7OAqziyR3aKUWjuM-o9NE9-QPUHFvrwkkBhGlEJ_hbH9iZrVy6wSLGDBjg4cRjHlwMLYFQcho36Th00NihQMOVoC3KU9F-JVFY4kStmnnh4S9y5drKfZECUQSP9IPqqINkfURXITwTW6HtgIgi8E4g677SwrlbsulwFj29hIFixdwjwILitJHER3tPHmAyK_stj8F6vBMORYJzaEeVcdIhKANLXpK1y6sRokb11bQ2OsFt_agmDD_LtpbjmtisJL95T435_NZiFDytJDOuzQVLSR49lamSUUrSJeKGDgswzCigo2WiM6-55lc4Qt_xPFgsoVk8sro8JTd2IVcP4ye7m4ZR5UNhMLSkdkYkK_BghhDcvcfAIGA4kYb-uykWvzQGgoo4-zQOaWJsjZIJsNkzDFtDXwbA_fXEYA
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /my-account/
+    [register] => Register
+)
+
+Sun, 15 Dec 2019 21:57:40 - [IP: 54.36.149.74] - [User: Guest] - term: avid
+Mon, 16 Dec 2019 01:07:42 - [IP: 5.188.210.242] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please solve Captcha correctly<br>
+Mon, 16 Dec 2019 01:07:48 - [IP: 5.188.210.242] - [User: Guest] - <br>Woocommerce notice: <strong>ERROR</strong>: The username or password you entered is incorrect. <a href="https://daviesguitars.io/my-account/lost-password/" title="Password Lost and Found">Lost your password</a>?<br>
+Mon, 16 Dec 2019 01:28:05 - [IP: 157.55.39.72] - [User: Guest] - term: double-impact-drums
+Mon, 16 Dec 2019 02:55:21 - [IP: 157.55.39.72] - [User: Guest] - term: axp
+Mon, 16 Dec 2019 03:45:24 - [IP: 207.46.13.168] - [User: Guest] - term: chop-tones
+Mon, 16 Dec 2019 03:48:14 - [IP: 208.114.165.68] - [User: Guest] - <br>Woocommerce notice: <strong>ERROR</strong>: The username or password you entered is incorrect. <a href="https://daviesguitars.io/my-account/lost-password/" title="Password Lost and Found">Lost your password</a>?<br>
+Mon, 16 Dec 2019 03:48:46 - [IP: 208.114.165.68] - [User: Guest] - <br>Woocommerce notice: <strong>ERROR</strong>: The username or password you entered is incorrect. <a href="https://daviesguitars.io/my-account/lost-password/" title="Password Lost and Found">Lost your password</a>?<br>
+Mon, 16 Dec 2019 03:50:35 - [IP: 71.68.2.214] - [User: Guest] - Array
+(
+    [first_name] => Rocco
+    [username] => Rockyfrat@gmail.com
+    [email] => Rockyfrat@gmail.com
+    [password] => Grizzly1
+    [interested_in_learning] => technical-skills
+    [g-recaptcha-response] => 03AOLTBLQYv4OE-scHSM0ZOUqSZ7aEgneZVtnRz3IqzVCLvnv9Qprf09GCwZ-w7CCqtwMse-1KHHRPvAlsahHU0z9nqa_5hTyonum1T5tHdmIQfPfImT4hJdvCtPBzKPlpyVBoyRovIzvXf2sbBLIa-md4Fuu7bHKXqLy9QdBlSXDLMjWW4_DzM-P4ckn6HC68ps_Re9evSFQTUGlXG7DvMOS-7Y32SdYLcHRZa76f6o8fLoq842Qhr_YYFvMlhITcJQbwrTMi0II9G2ru96qqrKvRelZWA8xxONmics3H8se2i4_hlM8_h8hJ_4udfimbIS5_eopoUAjuNoGwDOqpDQVB23nCZOhYgX4JfSy_7skHsZvUpEmxDbMAMo827Nb_6x2XUtbbV5-Yfz4Sfy6s1pN081s0fPf68C0Vp8wNW3_thlVxOUHFxiwqBdHw7yYSE8D7RmqDTUVpxoYunpITqdJFkMDos1vu01qBcQx2pSZ5S22k7mDPF_NiQcaU3svSXasQv-dJ7qbZ1tiB4NO61eWt9vcLZyknUv3j4Zk-B8R9P1RufzubmsXBG8iQQY1Xq9-Bf4Kn37doprXhCbPvJVlOL06vVjIe0jiDhBvXkagYg2myaHy47AJrAIhZ-SBRlbXRfFZs9Wqn
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /?utm_source=Facebook&utm_medium=Facebook_Mobile_Feed&utm_campaign=Find%20Your%20Sound%20%28Conversion%20Optimised%29
+    [register] => Register
+    [pum_form_popup_id] => 23878
+)
+
+Mon, 16 Dec 2019 03:56:49 - [IP: 5.188.210.242] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please solve Captcha correctly<br>
+Mon, 16 Dec 2019 03:56:53 - [IP: 5.188.210.242] - [User: Guest] - <br>Woocommerce notice: <strong>ERROR</strong>: The username or password you entered is incorrect. <a href="https://daviesguitars.io/my-account/lost-password/" title="Password Lost and Found">Lost your password</a>?<br>
+Mon, 16 Dec 2019 04:30:59 - [IP: 37.130.93.154] - [User: Guest] - <br>Woocommerce notice: <strong>Error:</strong> Please solve Captcha correctly<br>
+Mon, 16 Dec 2019 04:31:10 - [IP: 37.130.93.154] - [User: Guest] - <br>Woocommerce notice: <strong>ERROR</strong>: The username or password you entered is incorrect. <a href="https://daviesguitars.io/my-account/lost-password/" title="Password Lost and Found">Lost your password</a>?<br>
+Mon, 16 Dec 2019 04:32:55 - [IP: 37.130.93.154] - [User: Guest] - <br>Woocommerce notice: <strong>ERROR</strong>: The username or password you entered is incorrect. <a href="https://daviesguitars.io/my-account/lost-password/" title="Password Lost and Found">Lost your password</a>?<br>
+Mon, 16 Dec 2019 04:34:11 - [IP: 37.130.93.154] - [User: Guest] - Array
+(
+    [first_name] => Ozgur
+    [username] => Cali
+    [email] => ozgurcali@gmail.com
+    [password] => space-galaksi-3
+    [interested_in_learning] => music-theory
+    [g-recaptcha-response] => 03AOLTBLSJNhV9tJEW3rtHCawH7C3uVJJbKa5M4QvtN5DFbMdY1RUFKAw10R75Cypv19ZgB78oX6gEVZEd-C5h_N8aOu6DhNKjJ-13HUuO2oxJmU6X15T7ENzknKuDrI23p5aSdNS7WjxxP8JDgADeUjwfLipTqAxXh4A5298IhtrqKbL5HyR-B-pvycsk74jwNxuSTGlZ50hiXMLvQ6YriLWfSEWFZxd3-4lP9c3186tXa4D4OnoYUhNopiO75AnnrzKHhP9CFTEsEfEOeBJ_54FQGCMH7e8tQLI69pfmRkrqRB_LWajszN_q19Y8nb20FUUcykhy3v-xyEV1ULyoOYNh_htx9xWzWjy3ytSPketoaLF2LEJ1piGN1KDh6gN55gX5lO94cSB5thcj2s3y6Fz1nYoQhL1jqhfDls0k0q9nzDCmKNNWodq7as4zNsrmjvXMEE6_LPOQgO3cXy8NVPbtCpYYeSYyxzmbtY3a2EXws-4PDRAUNLepHSyPsK3jCzLKUmEy1Fv9empR5o9r8lvLNQhB_hMuEw
+    [woocommerce-register-nonce] => 354c9bbf0d
+    [_wp_http_referer] => /my-account/
+    [register] => Register
+)
+
+Mon, 16 Dec 2019 05:28:33 - [IP: 54.36.149.76] - [User: Guest] - term: stl-tones
+Mon, 16 Dec 2019 08:14:53 - [IP: 40.77.167.57] - [User: Guest] - term: fractal-audio-systems
+Mon, 16 Dec 2019 08:28:06 - [IP: 157.55.39.105] - [User: Guest] - term: pitchback-profiles
+Mon, 16 Dec 2019 10:15:33 - [IP: 207.46.13.34] - [User: Guest] - term: ignite-amps

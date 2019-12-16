@@ -1,0 +1,104 @@
+.users-apps.selected {
+    box-shadow: 0px 5px 9px 0px #00000038 !important;
+}
+.users-apps {
+    display: block;
+    margin-bottom: 15px;
+    cursor: pointer;
+    color: #262626;
+    border: none !important;
+}
+.users-apps.action-block {
+    padding: 0px;
+    overflow: hidden;
+    text-align: center;
+
+}
+.app-content-container {
+    padding: 25px;
+}
+div#app-name {
+    color: #111;
+    font-size: 24px;
+    line-height: initial;
+    font-weight: 900;
+}
+
+.notification-popup-wrapper {
+    position: absolute;
+    top: 270px;
+    width: 100%;
+}
+.notification-popup {
+    max-width: 313px;
+    background: #ffffffa8;
+    margin: auto;
+    border-radius: 13px;
+    padding: 5px 9px;
+    position: relative;
+    right: 20px;
+    color: black;
+    min-height: 35px;
+}
+.notification-message {
+    line-height: 1.1;
+}
+.notification-title {
+    font-weight: 700;
+    margin-bottom: 6px;
+}
+.notification-top-section {
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+.sending-push-to *, .sending-push-to {
+    display: inline-block;
+    font-weight: 900;
+    color: black;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+form#ajax-push-notification table, form#ajax-push-notification table input {
+    width: 100%;
+}
+form#ajax-push-notification table * {
+    border: none;
+}
+form#ajax-push-notification table * {
+    border: none;
+    font-size: 18px;
+}
+form#ajax-push-notification table input {
+    padding: 7px 20px;
+    border-radius: 30px;
+    border: solid 1px #eaeaea;
+}
+form#ajax-push-notification table input#message {
+    min-height: 120px;
+}
+button.button.submit-push {
+    width: 100%;
+    background: #cd344b;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 50px;
+}
+form#ajax-push-notification p {
+    margin: 0px;
+}
+form#ajax-push-notification input {
+    width: 100%;
+    margin-bottom: 15px;
+    border-radius: 100px;
+    padding: 8px 20px;
+}
+div#app-image {
+    padding: 15px;
+    min-height: 80px;
+}
+#app-image img {
+    max-height: 50px;
+}

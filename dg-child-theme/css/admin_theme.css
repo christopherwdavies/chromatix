@@ -1,0 +1,181 @@
+/* Change left menu width */
+#wpcontent, #wpfooter {
+    margin-left: 250px !important;
+}
+#adminmenu, #adminmenu .wp-submenu, #adminmenuback, #adminmenuwrap {
+    width: 250px !important;
+}
+#adminmenu .wp-submenu {
+    left: 250px;
+}
+
+/*Change left menu colours*/
+#adminmenu, #adminmenu, #adminmenuback, #adminmenuwrap {
+    background-color: black !important;
+}
+#adminmenu .wp-has-current-submenu .wp-submenu .wp-submenu-head, #adminmenu .wp-menu-arrow, #adminmenu .wp-menu-arrow div, #adminmenu li.current a.menu-top, #adminmenu li.wp-has-current-submenu a.wp-has-current-submenu, .folded #adminmenu li.current.menu-top, .folded #adminmenu li.wp-has-current-submenu {
+    background: #b30909 !important;
+}
+
+#adminmenu li.menu-top:hover, #adminmenu li.opensub>a.menu-top, #adminmenu li>a.menu-top:focus {
+    color: white !important;
+}
+#adminmenu .wp-submenu a:focus, #adminmenu .wp-submenu a:hover, #adminmenu a:hover, #adminmenu li.menu-top>a:focus {
+	color: white !important;
+}
+#adminmenu li a:focus div.wp-menu-image:before, #adminmenu li.opensub div.wp-menu-image:before, #adminmenu li:hover div.wp-menu-image:before {
+    color: white !important;
+}
+
+/*Change left menu sizing*/
+ul#adminmenu > li > a {
+    padding: 10px !important;
+    border-bottom: solid 1px #262626 !important;
+}
+#adminmenu .wp-submenu-head, #adminmenu a.menu-top {
+    font-size: 18px !important;
+}
+#adminmenu .wp-submenu a {
+    font-size: 16px !important;
+}
+#adminmenu .wp-has-current-submenu ul>li>a, .folded #adminmenu li.menu-top .wp-submenu>li>a {
+    margin-left: 30px !important;
+}
+.folded #adminmenu, .folded #adminmenu li.menu-top, .folded #adminmenuback, .folded #adminmenuwrap {
+    width: 60px !important;
+}
+.folded #wpcontent, .folded #wpfooter {
+    margin-left: 60px !important;
+}
+.folded #adminmenu .opensub .wp-submenu, .folded #adminmenu .wp-has-current-submenu .wp-submenu.sub-open, .folded #adminmenu .wp-has-current-submenu a.menu-top:focus+.wp-submenu, .folded #adminmenu .wp-has-current-submenu.opensub .wp-submenu, .folded #adminmenu .wp-submenu.sub-open, .folded #adminmenu a.menu-top:focus+.wp-submenu, .no-js.folded #adminmenu .wp-has-submenu:hover .wp-submenu {
+    top: -2px !important;
+    left: 60px !important;
+}
+
+/*Change top bar*/
+#wpadminbar {
+    background: black !important;
+    height: 52px;
+}
+#wpadminbar * {
+    font-size: 16px !important;
+}
+ul#wp-admin-bar-root-default li a {
+    padding: 10px !important;
+}
+li#wp-admin-bar-thegem-support-center, li#wp-admin-bar-thegem-documentation, li#wp-admin-bar-thegem-thumbnails-generator {
+	display: none !important;
+}
+li#wp-admin-bar-wpfc-toolbar-parent .ab-item {
+    padding: 10px !important;
+    cursor: pointer !important;
+}
+li#wp-admin-bar-my-account a {
+    padding: 10px !important;
+}
+#wp-admin-bar-thegem-theme-options > a {
+    background: #b30909 !important;
+    color: #ffffff !important;
+}
+#wpadminbar .ab-top-menu>li.hover>.ab-item, #wpadminbar.nojq .quicklinks .ab-top-menu>li>.ab-item:focus, #wpadminbar:not(.mobile) .ab-top-menu>li:hover>.ab-item, #wpadminbar:not(.mobile) .ab-top-menu>li>.ab-item:focus {
+    color: white !important;
+}
+
+/*Body repositioning*/
+div#wpcontent {
+    margin-top: 20px !important;
+}
+body {
+    background: white;
+}
+
+/*Style buttons*/
+/*.wp-core-ui .button-primary, .wrap .add-new-h2, .wrap .add-new-h2:active, .wrap .page-title-action, .wrap .page-title-action:active, input[type="submit"], a.button.button-primary, .wp-core-ui .button, .wp-core-ui .button-secondary {
+    background-color: #b30909 !important;
+    border-color: #960707 #960707 #960707 !important;
+    border: 0px 2px 2px 0px #00000036 !important;
+    box-shadow: none !important;
+    color: #fff !important;
+    text-decoration: none !important;
+    border-radius: 0px !important;
+    font-size: 16px !important;
+    transition: all .2s ease-in-out !important;
+    text-shadow: none !important;
+}
+.wp-core-ui .button-primary:hover .wrap .add-new-h2:hover, .wrap .page-title-action:hover, a.button.button-primary:hover, .wp-core-ui .button:hover, .wp-core-ui .button-secondary:hover {
+	background-color: #960707 !important;
+}*/
+
+
+/*Style box modules*/
+.postbox {
+    box-shadow: 0 3px 5px rgba(0,0,0,.1) !important;
+    background: #fff !important;
+}
+h2.hndle.ui-sortable-handle {
+    background: #262626 !important;
+    color: white !important;
+}
+.accordion-section-title:after, .handlediv, .item-edit, .postbox .handlediv.button-link, .toggle-indicator {
+    color: #eaeaea !important;
+}
+
+
+/*General styling*/
+h1 {
+    font-weight: 700 !important;
+    font-size: 40px !important;
+    text-align: center !important;
+    padding: 20px 50px !important;
+    color: black !important;
+    margin-bottom: 50px !important;
+    display: block !important;
+    text-transform: uppercase !important;
+    letter-spacing: -2px !important;
+    line-height: initial !important;
+}
+.wp-ui-highlight {
+    color: #fff !important;
+    background-color: #262626 !important;
+    padding: 10px !important;
+}
+/*input[type="text"] {
+    padding: 10px !important;
+    height: auto !important;
+}*/
+.plugin-update-tr.active td, .plugins .active th.check-column {
+    border-left: 4px solid black !important;
+}
+.plugins .active td, .plugins .active th {
+    background-color: #f6f6f6 !important;
+}
+
+/*Up-date some styling for admin search plugin*/
+li#wp-admin-bar-wpas .icon-menu::before {
+    content: '\f179' !important;
+    font-family: Dashicons !important;
+    font-size: 36px !important;
+}
+li#wp-admin-bar-wpas {
+    width: auto !important;
+}
+.wpas_menu > a, .wpas_box .wpas_sidebar .wpas_header {
+    background-color: #b30808 !important;
+}
+.wpas_menu > a:hover {
+    background-color: #8e0707 !important;
+}
+li#wp-admin-bar-chris-frequently-used *::before {
+    color: #b30909 !important;
+    font-size: 26px;
+}
+
+/*Top menu*/
+li#wp-admin-bar-chris-frequently-used .ab-submenu *::before {
+    font-size: 16px !important;
+    color: white !important;
+    margin-top: 10px;
+}
+#wp-admin-bar-chris-frequently-used li.hover>.ab-sub-wrapper, #wp-admin-bar-chris-frequently-used li:hover>.ab-sub-wrapper {
+    margin-top: -58px !important;
+}
