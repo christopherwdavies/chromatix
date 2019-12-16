@@ -15,3 +15,12 @@ The most recent / relevant examples of my work would be the first three listed b
     - /chromatix/ (see scripts.js)
 1.  **Api examples**
     - /quantum-apps/ (This was a plugin I made which was based off Google's Firebase for sending out push notifications.  I had made a super simple template for converting websites into apps and used this plugin to send push notifications via web api).
+1.  **Website examples**
+    - https://www.frdlaw.com.au/ (website built by me)
+    - https://jpcases.com.au/ (website built by me)
+    - https://www.stencilsaustralia.com.au/ (website built by me)
+    - https://aroomforu.com.au/(website built by me - speed project due to tiny budget)
+    - https://daviesguitars.io/ (website built by me - hobby project)
+    - https://www.boatsandmore.com.au/ (a lot of work done by me - I built WC shop)
+    - https://www.giggear.com.au/giggear-amp-multipurpose-rack-road-case-rack-case/ (new page template by me)
+    - https://www.giggear.com.au/suspension-rack-mount-server-case-20ru-32ru/ (example of old page template)
